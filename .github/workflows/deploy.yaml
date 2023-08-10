@@ -1,0 +1,28 @@
+name: Deploy Jekyll with Flask
+
+on:
+  push:
+    branches:
+      - main  # Change to your main branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x  # Use the appropriate Python version
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt  # Install Flask dependencies
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build  # Build your Jekyll site
+
+      - name: Start Flask app
+        run: python backend/app.py  # Start your Flask app

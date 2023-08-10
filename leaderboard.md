@@ -24,3 +24,17 @@ layout: default
 |        |           |         |                       |
 
 [< Home](./)
+
+<script>
+  // Define a function to execute the script
+  function executePythonScript() {
+    $.post('/run_script', function(data) {
+      console.log(data); // Display the response from the server
+    });
+  }
+
+  // Run the script when the page is fully loaded
+  $(document).ready(function() {
+    executePythonScript();
+  });
+</script>
