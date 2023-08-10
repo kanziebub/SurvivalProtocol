@@ -4,11 +4,11 @@ layout: default
 
 [< Home](./)
 
-### **Rulebook**
+# **Rulebook**
 
 This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 
-## [Point Matrix]
+## Point Matrix
 
 | Rank | Points |
 |:-----|:-------|
