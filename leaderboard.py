@@ -1,3 +1,6 @@
+# Imports
+import pandas as pd
+import markdown
 
 def set_df(id, name):
     url = f'https://docs.google.com/spreadsheets/d/{id}/gviz/tq?tqx=out:csv&sheet={name}'
@@ -28,9 +31,6 @@ def get_by_rank(df, rank, field):
     return row[field].values[0]
 
 # =====================================================
-
-# Imports
-import pandas as pd
 
 # Tourney 12 Aug 2023
 # https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit#gid=1885268704\
