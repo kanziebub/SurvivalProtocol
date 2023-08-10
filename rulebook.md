@@ -10,16 +10,16 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 
 ## Point Matrix
 
-| Rank | Points |
-|:-----|:-------|
-|  #**1**  |   32   | 
-|  #**2**  |   24   | 
-|  #**3**  |   18   | 
-|  #**4**  |   12   | 
-|  #**5**  |   08   | 
-|  #**6**  |   04   | 
-|  #**7**  |   02   | 
-|  #**8**  |   01   | 
+|  Rank  | Points |
+|:-------|:-------|
+| #**1** |   32   | 
+| #**2** |   24   | 
+| #**3** |   18   | 
+| #**4** |   12   | 
+| #**5** |   08   | 
+| #**6** |   04   | 
+| #**7** |   02   | 
+| #**8** |   01   | 
 
 *   1 TK = 10 Points
 *   Death from NON-Player = - 10 Points
