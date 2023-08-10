@@ -4,8 +4,8 @@ layout: default
 
 [< Home](./)
 
-## Welcome to another page
+## **Leaderboard**
 
-_yay_
+Coming Soon
 
 [Home](./)

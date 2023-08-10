@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Home
+# **Home**
 
 This is the official page regarding Eternal Return Tournaments for the Indonesian ER Community (Lyfin's Tavern).
 
