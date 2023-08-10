@@ -5,29 +5,27 @@ def set_df(id, name):
     df = df.iloc[1:9 , 1:9]
 
     df.rename(
-    columns = {
-        'Unnamed: 1':'Rank',
-        'Unnamed: 2':'Name',
-        'Unnamed: 3':'Total Point',
-        'Unnamed: 4':'Total TK',
-        'Unnamed: 5':'Avg TK',
-        'Unnamed: 6':'Avg Placement',
-        'Unnamed: 7':'Avg Placement Point',
-        'Unnamed: 8':'Games Played',
-        }, 
-    inplace = True)
+        columns = {
+            'Unnamed: 1':'Rank',
+            'Unnamed: 2':'Name',
+            'Unnamed: 3':'Total Point',
+            'Unnamed: 4':'Total TK',
+            'Unnamed: 5':'Avg TK',
+            'Unnamed: 6':'Avg Placement',
+            'Unnamed: 7':'Avg Placement Point',
+            'Unnamed: 8':'Games Played',
+            }, 
+        inplace = True)
 
     return df
 
 def get_by_team(df, team, field):
     row = df.loc[df['Name'] == team]
-    
-    print(row[field].values[0])
+    return row[field].values[0]
 
 def get_by_rank(df, rank, field):
     row = df.iloc[rank-1:rank]
-    
-    print(row[field].values[0])
+    return row[field].values[0]
 
 # =====================================================
 
@@ -40,7 +38,6 @@ sheetID = "1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s"
 sheetName = "ERCT"
 
 df = set_df(sheetID, sheetName)
-print(df)
 
 teams = [
     "SKILLISSUE",
