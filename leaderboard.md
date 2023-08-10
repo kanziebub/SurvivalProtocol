@@ -4,8 +4,8 @@ layout: default
 
 [< Home](./)
 
-## **Leaderboard**
+# **Leaderboard**
 
-Coming Soon
+_Coming Soon_
 
-[Home](./)
+[< Home](./)

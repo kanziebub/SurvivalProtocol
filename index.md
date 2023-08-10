@@ -8,7 +8,11 @@ This is the official page regarding Eternal Return Tournaments for the Indonesia
 
 ## Tourney Rules
 
-General rules regarding the tournament can be accessed from the following page: [View Rules](./rulebook.html).
+General rules regarding the tournament can be accessed from the following page: [Rulebook](./rulebook.html).
+
+## Leaderboard
+
+Current tournament leaderboard can be accessed from the following page: [Leaderboard](./leaderboard.html).
 
 ## Registered Teams
 
@@ -44,8 +48,3 @@ General rules regarding the tournament can be accessed from the following page: 
   - efii
   - Lucii
   - miracl
-
-
-## Leaderboard
-
-Current tournament leaderboard can be accessed from the following page: [View Leaderboard](./leaderboard.html).
