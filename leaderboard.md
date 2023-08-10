@@ -6,7 +6,7 @@ layout: default
 
 # **Leaderboard**
 
-|  Rank  | Team Name             | Total Kill | **Points** |
+|  Rank  | **Team Name**         | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 | #**1** |                       |            |            |
 | #**2** |                       |            |            |
