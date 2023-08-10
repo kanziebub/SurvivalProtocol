@@ -25,7 +25,8 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 *   Death from NON-Player = - 10 Points
 
 > If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 10 Points will be deducted from that Player’s Round Point total. 
-> (If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 10 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total)
+>
+> If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 10 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total
 
 ## Tiebreaker Rules
 
@@ -36,7 +37,7 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 ## Event Registration
 
 Event registration is processed via Google and joining the discord server.
-All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the “LYFIN TAVERN” Discord at time of signup for your entry to be counted. Event registration may be canceled or modified by contacting an organizer.
+All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the **“Lyfin's Tavern” Discord** at time of signup for your entry to be counted. Event registration may be canceled or modified by contacting an organizer.
  
 ## Game Client Version
 
@@ -88,19 +89,19 @@ If a player experiences an unintentional disconnect during joining to the lobby,
 
 The following behaviors are categorized as unfair play and will be penalized. Players may report another player’s violation of rules if they have proof beyond a reasonable doubt, and a penalty will be determined. The default penalty is a 1-round forfeit if there is no exact penalty specified. All decisions are made at the discretion of the tournament organizers.
 
-**No-shows**: All players must check in and join the game lobby and the designated Discord voice channel (if applicable) on time. If they fail to join on time, they will be disqualified from the tournament. 1st offense – disqualification from current tournament.
+> **No-shows**: All players must check in and join the game lobby and the designated Discord voice channel (if applicable) on time. If they fail to join on time, they will be disqualified from the tournament. 1st offense – disqualification from current tournament.
+> 
+> **Teaming**: Teaming is strictly prohibited in all modes. If multiple teams or players collude to gain an unfair advantage, all teams or players will be disqualified from the tournament. This will be applied if multiple teams or players avoid dealing damage to each other while staying in combat range. Rulings on teaming will be handled on a case-by-case basis by organizers. 1st offense – disqualification from current tournament.
+> 
+> **Outside communication**: Communication with anyone outside of your team in the case of squads or duos is not allowed during the tournament. Outside communication undermines the competitive integrity of the tournament and is strictly prohibited. 1st offense – disqualification from current tournament.
+> 
+> **Emotes**: All in game emotes will not be allowed.
+> 
+> **Bug exploit**: Do not exploit any bugs, including known bugs and bugs discovered during the tournament if any.
+> 
+> **Illegal pick**: Players may not pick characters that are restricted, disabled, or banned in official ranked mode. Penalty: 1st offense – round forfeit. 2nd offense – disqualification.
+> 
+> **Dying in a restricted area/Quitting**: Dying in the restricted area or quitting the match while alive even if the player is not in combat is strongly discouraged. All points from a player’s death will be given to the player or team that most clearly forced the player’s death to occur. Some situations will be case to case basis so it will be decided by the organizers. 
 
-**Teaming**: Teaming is strictly prohibited in all modes. If multiple teams or players collude to gain an unfair advantage, all teams or players will be disqualified from the tournament. This will be applied if multiple teams or players avoid dealing damage to each other while staying in combat range. Rulings on teaming will be handled on a case-by-case basis by organizers. 1st offense – disqualification from current tournament.
 
-**Outside communication**: Communication with anyone outside of your team in the case of squads or duos is not allowed during the tournament. Outside communication undermines the competitive integrity of the tournament and is strictly prohibited. 1st offense – disqualification from current tournament.
-
-**Emotes**: All in game emotes will not be allowed.
-
-**Bug exploit**: Do not exploit any bugs, including known bugs and bugs discovered during the tournament if any.
-
-**Illegal pick**: Players may not pick characters that are restricted, disabled, or banned in official ranked mode. Penalty: 1st offense – round forfeit. 2nd offense – disqualification.
-
-**Dying in a restricted area/Quitting**: Dying in the restricted area or quitting the match while alive even if the player is not in combat is strongly discouraged. All points from a player’s death will be given to the player or team that most clearly forced the player’s death to occur. Some situations will be case to case basis so it will be decided by the organizers. 
-
-
-[Home](./)
+[< Home](./)
