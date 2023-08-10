@@ -19,8 +19,15 @@ def set_df(id, name):
 
     return df
 
-# def get_TK(df, team):
-#     return 0
+def get_by_team(df, team, field):
+    row = df.loc[df['Name'] == team]
+    
+    print(row[field].values[0])
+
+def get_by_rank(df, rank, field):
+    row = df.iloc[rank-1:rank]
+    
+    print(row[field].values[0])
 
 # =====================================================
 
@@ -28,14 +35,31 @@ def set_df(id, name):
 import pandas as pd
 
 # Tourney 12 Aug 2023
-# https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit?usp=sharing
-
-ID_squads_12aug2023 = "https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit#gid=1885268704"
+# https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit#gid=1885268704\
 sheetID = "1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s"
 sheetName = "ERCT"
 
 df = set_df(sheetID, sheetName)
 print(df)
 
+teams = [
+    "SKILLISSUE",
+    "LF CHINESE GF",
+    "Pecinta Paha Laura",
+    "Party Orang Setres ",
+    "CalledByGod",
+    "B Komachi",
+    "Adina and Friends",
+    "TUYUL",
+]
 
-
+fields = [
+    'Rank',
+    'Name',
+    'Total Point',
+    'Total TK',
+    'Avg TK',
+    'Avg Placement',
+    'Avg Placement Point',
+    'Games Played'
+]
