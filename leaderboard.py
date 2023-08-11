@@ -126,6 +126,7 @@ layout: default
 
     script = """
 <script>
+```js client
   // Define a function to execute the script
     function executePythonScript() {
         $.ajax({
@@ -142,6 +143,7 @@ layout: default
         executePythonScript();
     });
 </script>
+```
 """
 
     leaderboard_md = leaderboard_md + penalty + home + script
@@ -160,7 +162,7 @@ def refresh_page():
     df = set_df(sheetID, sheetName)
 
     page_md = set_leaderboard_page(df)
-    with open('leaderboard.md', 'w') as f:
+    with open('leaderboard.mdjs', 'w') as f:
         f.write(page_md)
 
 refresh_page()
