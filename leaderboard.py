@@ -126,7 +126,7 @@ layout: default
 
     script = """
 <script>
-```js client
+```js script
   // Define a function to execute the script
     function executePythonScript() {
         $.ajax({
@@ -142,7 +142,6 @@ layout: default
     $(document).ready(function() {
         executePythonScript();
     });
-</script>
 ```
 """
 

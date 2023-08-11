@@ -25,8 +25,7 @@ layout: default
 
 [< Home](./)
 
-```js client
-    <script>
+```js script
     // Define a function to execute the script
         function executePythonScript() {
             $.ajax({
@@ -42,5 +41,4 @@ layout: default
         $(document).ready(function() {
             executePythonScript();
         });
-    </script>
 ```
