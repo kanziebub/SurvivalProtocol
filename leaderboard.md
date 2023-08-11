@@ -27,14 +27,18 @@ layout: default
 
 <script>
   // Define a function to execute the script
-  function executePythonScript() {
-    $.post('/run_script', function(data) {
-      console.log(data); // Display the response from the server
-    });
-  }
+    function executePythonScript() {
+        $.ajax({
+            type:'POST',
+            url:'leaderboard.py',
+            success: function(data) {                                                     
+                console.log(data)
+            };
+        });
+    }
 
-  // Run the script when the page is fully loaded
-  $(document).ready(function() {
-    executePythonScript();
-  });
+    // Run the script when the page is fully loaded
+    $(document).ready(function() {
+        executePythonScript();
+    });
 </script>
