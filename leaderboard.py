@@ -57,7 +57,6 @@ fields = [
 
 def set_leaderboard_page(df):
     leaderboard_md = """ 
-<div markdown="1">
 ---
 layout: default
 ---
@@ -123,8 +122,6 @@ layout: default
 
     home = """
 [< Home](./)
-
-</div>
     """
 
     script = """
