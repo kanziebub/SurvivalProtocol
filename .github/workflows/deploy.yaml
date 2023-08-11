@@ -1,4 +1,4 @@
-name: Deploy Jekyll with Flask
+name: Setup Python
 
 on:
   push:
