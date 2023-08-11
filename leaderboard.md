@@ -28,12 +28,13 @@
 
 </div>
 
+```js client
 <script>
   // Define a function to execute the script
     function executePythonScript() {
         $.ajax({
             type:'POST',
-            url:'leaderboard.py',
+            url:'./leaderboard.py',
             success: function(data) {                                                     
                 console.log(data)
             };
@@ -45,3 +46,4 @@
         executePythonScript();
     });
 </script>
+```
