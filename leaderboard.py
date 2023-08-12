@@ -133,28 +133,28 @@ layout: default
 [< Home](./)
     """
 
-    script = """
-<script>
-```js script
-  // Define a function to execute the script
-    function executePythonScript() {
-        $.ajax({
-            type:'POST',
-            url:'leaderboard.py',
-            success: function(data) {                                                     
-                console.log(data)
-            };
-        });
-    }
+#     script = """
+# <script>
+# ```js script
+#   // Define a function to execute the script
+#     function executePythonScript() {
+#         $.ajax({
+#             type:'POST',
+#             url:'leaderboard.py',
+#             success: function(data) {                                                     
+#                 console.log(data)
+#             };
+#         });
+#     }
 
-    // Run the script when the page is fully loaded
-    $(document).ready(function() {
-        executePythonScript();
-    });
-```
-"""
+#     // Run the script when the page is fully loaded
+#     $(document).ready(function() {
+#         executePythonScript();
+#     });
+# ```
+# """
 
-    leaderboard_md = leaderboard_md + penalty + home + script
+    leaderboard_md = leaderboard_md + penalty + home
     return leaderboard_md
 
     # ---------------------------------
