@@ -125,7 +125,7 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       |
+|   04   |   TUYUL   |  -10    | Rehost: Main Augment  |
     """
 
     home = """

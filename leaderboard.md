@@ -17,13 +17,13 @@ layout: default
 | #**5** | Party Orang Setres | 7 | 82 | 
 | #**6** | CalledByGod | 4 | 70 | 
 | #**7** | Pecinta Paha Laura | 5 | 63 | 
-| #**8** | TUYUL | 0 | 6 | 
+| #**8** | TUYUL | 0 | 0 | 
 
 ## Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       |
+|   04   |   TUYUL   |  -10    | Rehost: Main Augment  |
     
 [< Home](./)
     
