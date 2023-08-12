@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **LF CHINESE GF** | 39 | **466** | 
-| #**2** | **SKILLISSUE** | 39 | **450** | 
-| #**3** | **B Komachi** | 22 | **268** | 
-| #**4** | Adina and Friends | 21 | 268 | 
-| #**5** | Party Orang Setres | 7 | 82 | 
-| #**6** | CalledByGod | 4 | 70 | 
-| #**7** | Pecinta Paha Laura | 5 | 63 | 
-| #**8** | TUYUL | 0 | 0 | 
+| #**1** | **LF CHINESE GF** | 54 | **640** | 
+| #**2** | **SKILLISSUE** | 43 | **502** | 
+| #**3** | **B Komachi** | 35 | **416** | 
+| #**4** | Adina and Friends | 26 | 320 | 
+| #**5** | Party Orang Setres | 22 | 264 | 
+| #**6** | Pecinta Paha Laura | 7 | 84 | 
+| #**7** | CalledByGod | 5 | 84 | 
+| #**8** | TUYUL | 0 | 4 | 
 
 ## Penalty Log
 
