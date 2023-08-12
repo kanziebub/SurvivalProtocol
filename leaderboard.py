@@ -107,14 +107,14 @@ layout: default
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 """
-    rank1 = "| #**1** | **" +str(rank1team)+ "** | " +str(rank1kill)+ " | **" +str(rank1poin)+ "** | \n"
-    rank2 = "| #**2** | **" +str(rank2team)+ "** | " +str(rank2kill)+ " | **" +str(rank2poin)+ "** | \n"
-    rank3 = "| #**3** | **" +str(rank3team)+ "** | " +str(rank3kill)+ " | **" +str(rank3poin)+ "** | \n"
-    rank4 = "| #**4** | " +str(rank4team)+ " | " +str(rank4kill)+ " | " +str(rank4poin)+ " | \n"
-    rank5 = "| #**5** | " +str(rank5team)+ " | " +str(rank5kill)+ " | " +str(rank5poin)+ " | \n"
-    rank6 = "| #**6** | " +str(rank6team)+ " | " +str(rank6kill)+ " | " +str(rank6poin)+ " | \n"
-    rank7 = "| #**7** | " +str(rank7team)+ " | " +str(rank7kill)+ " | " +str(rank7poin)+ " | \n"
-    rank8 = "| #**8** | " +str(rank8team)+ " | " +str(rank8kill)+ " | " +str(rank8poin)+ " | \n"
+    rank1 = "| #**1** | **" +str(int(rank1team))+ "** | " +str(int(rank1kill))+ " | **" +str(int(rank1poin))+ "** | \n"
+    rank2 = "| #**2** | **" +str(int(rank2team))+ "** | " +str(int(rank2kill))+ " | **" +str(int(rank2poin))+ "** | \n"
+    rank3 = "| #**3** | **" +str(int(rank3team))+ "** | " +str(int(rank3kill))+ " | **" +str(int(rank3poin))+ "** | \n"
+    rank4 = "| #**4** | " +str(int(rank4team))+ " | " +str(int(rank4kill))+ " | " +str(int(rank4poin))+ " | \n"
+    rank5 = "| #**5** | " +str(int(rank5team))+ " | " +str(int(rank5kill))+ " | " +str(int(rank5poin))+ " | \n"
+    rank6 = "| #**6** | " +str(int(rank6team))+ " | " +str(int(rank6kill))+ " | " +str(int(rank6poin))+ " | \n"
+    rank7 = "| #**7** | " +str(int(rank7team))+ " | " +str(int(rank7kill))+ " | " +str(int(rank7poin))+ " | \n"
+    rank8 = "| #**8** | " +str(int(rank8team))+ " | " +str(int(rank8kill))+ " | " +str(int(rank8poin))+ " | \n"
 
     lbtable = lbtable + rank1 + rank2 + rank3 + rank4 + rank5 + rank6 + rank7 + rank8
     leaderboard_md = leaderboard_md + lbtable
