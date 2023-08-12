@@ -29,6 +29,12 @@ def get_by_rank(df, rank, field):
     row = df.iloc[rank-1:rank]
     return row[field].values[0]
 
+def get_games_played(df):
+    num = 0
+    row = df.iloc[0:1]
+    num = row['Games Played'].values[0]
+    return num
+
 # =====================================================
 
 teams = [
@@ -64,7 +70,9 @@ layout: default
 [< Home](./)
 
 # **Leaderboard**
+
 """
+    leaderboard_md = leaderboard_md + "## Games Played = " + get_games_played(df) + "\n \n"
     
     # ---------------------------------
 
@@ -108,7 +116,8 @@ layout: default
     rank7 = "| #**7** | " +str(rank7team)+ " | " +str(rank7kill)+ " | " +str(rank7poin)+ " | \n"
     rank8 = "| #**8** | " +str(rank8team)+ " | " +str(rank8kill)+ " | " +str(rank8poin)+ " | \n"
 
-    leaderboard_md = leaderboard_md + lbtable + rank1 + rank2 + rank3 + rank4 + rank5 + rank6 + rank7 + rank8
+    lbtable = lbtable + rank1 + rank2 + rank3 + rank4 + rank5 + rank6 + rank7 + rank8
+    leaderboard_md = leaderboard_md + lbtable
 
     # ---------------------------------
 
