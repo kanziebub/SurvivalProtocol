@@ -47,4 +47,4 @@ Current tournament leaderboard can be accessed from the following page: [Leaderb
 - TUYUL
   - efii
   - Lucii
-  - miracl
+  - TDrim
