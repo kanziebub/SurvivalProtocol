@@ -7,7 +7,6 @@ layout: default
 # **Leaderboard**
 
 ### Games Played = 0
- 
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
