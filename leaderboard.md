@@ -15,8 +15,8 @@ layout: default
 | #**3** | **Adina and Friends** | 19 | **246** | 
 | #**4** | B Komachi | 9 | 126 | 
 | #**5** | Party Orang Setres | 7 | 74 | 
-| #**6** | CalledByGod | 2 | 32 | 
-| #**7** | Pecinta Paha Laura | 2 | 29 | 
+| #**6** | Pecinta Paha Laura | 3 | 39 | 
+| #**7** | CalledByGod | 2 | 32 | 
 | #**8** | TUYUL | 0 | 5 | 
 
 ## Penalty Log
