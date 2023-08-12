@@ -62,8 +62,7 @@ fields = [
 # =====================================================
 
 def set_leaderboard_page(df):
-    leaderboard_md = """ 
----
+    leaderboard_md = """---
 layout: default
 ---
 
