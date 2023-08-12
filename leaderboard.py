@@ -72,7 +72,7 @@ layout: default
 # **Leaderboard**
 
 """
-    leaderboard_md = leaderboard_md + "## Games Played = " + get_games_played(df) + "\n \n"
+    leaderboard_md = leaderboard_md + "## Games Played = " + str(get_games_played(df)) + "\n \n"
     
     # ---------------------------------
 
