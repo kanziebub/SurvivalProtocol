@@ -24,6 +24,41 @@ layout: default
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
 |   04   |   TUYUL   |  -10    | Rehost: Main Augment  |
+
+## Registered Teams
+
+- SKILLISSUE
+  - Onryou
+  - SaintHolo
+  - Mistral
+- LF CHINESE GF
+  - Mizyx
+  - HPTNao
+  - GhostQuartz
+- Pecinta Paha Laura
+  - Galilleo
+  - CEPUーJandaHnter
+  - Gendo
+- Party Orang Setres 
+  - CEPUーLuminears
+  - CEPUーValsh
+  - BiZaRrE96
+- CalledByGod
+  - NeroNian
+  - Xeczion
+  - RotiCarrot
+- B Komachi
+  - Sachiko
+  - Rion34
+  - Restifik
+- Adina and Friends
+  - Aleks69
+  - Gw123
+  - Datmoon
+- TUYUL
+  - efii
+  - Lucii
+  - TDrim
     
 [< Home](./)
     
