@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[< Home](./)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
 
 # **Leaderboard**
 
@@ -59,6 +59,6 @@ layout: default
   - efii
   - Lucii
   - TDrim
-    
-[< Home](./)
+  
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
     

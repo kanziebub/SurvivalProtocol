@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[< Home](././)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
 
 # **Independence Day: Registered Teams**
 
@@ -39,4 +39,4 @@ layout: default
   - LucisC
   - Dice21
 
-[< Home](././)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
