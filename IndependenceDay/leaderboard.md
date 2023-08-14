@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[< Home](./)
+[< Home](././)
 
 # **Independence Day: Leaderboard**
 
@@ -25,4 +25,4 @@ layout: default
 |:-------|:----------|:--------|:----------------------|
 |        |           |         |                       |
 
-[< Home](./)
+[< Home](././)

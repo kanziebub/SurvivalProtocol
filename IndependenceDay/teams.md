@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[< Home](./)
+[< Home](././)
 
 # **Independence Day: Registered Teams**
 
@@ -38,8 +38,5 @@ layout: default
   - TaliyahOma
   - LucisC
   - Dice21
-    
-[< Home](./)
-    
 
-[< Home](./)
+[< Home](././)
