@@ -8,7 +8,7 @@ layout: default
 
 - CEPU
   - CEPUーValsh
-  - CEPUーValsh
+  - CEPUーLuminears
   - CEPUーArisu
 - PemujaLortYuuyaKyoua
   - Mizyx
