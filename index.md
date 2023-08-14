@@ -8,11 +8,17 @@ This is the official page regarding Eternal Return Tournaments for the Indonesia
 
 ## Tourney Rules
 
-General rules regarding the tournament can be accessed from the following page: [Rulebook](./rulebook.html).
+General rules regarding the tournament can be accessed from the following page: [Rulebook](./rulebook.html)
 
-## Leaderboard
+## Tournaments
 
-Tournament leaderboards can be accessed from the following pages: 
-- [Official Release Celebratory (12 Aug 2023)](./leaderboard.html).
-- Independence Day (19 Aug 2023)
-- Newbie Mentorship (16 Sep 2023)
+Official Release Celebratory (12 Aug 2023): 
+- [Leaderboard](./leaderboard.html)
+
+ID Independence Day (19 Aug 2023):
+- [Registered Teams](./IndependenceDay/teams.html)
+- [Leaderboard](./IndependenceDay/leaderboard.md)
+
+Newbie Mentorship (16 Sep 2023):
+- Registered Teams
+- Leaderboard
