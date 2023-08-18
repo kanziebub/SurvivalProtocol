@@ -41,3 +41,5 @@ layout: default
 ### Onryou | Jocel
 
 ![Jocel](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Jocel.png)
+
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
