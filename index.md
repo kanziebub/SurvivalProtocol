@@ -20,5 +20,6 @@ ID Independence Day (19 Aug 2023):
 - [Leaderboard](./IndependenceDay/leaderboard.md)
 
 Newbie Mentorship (16 Sep 2023):
-- Registered Teams
-- Leaderboard
+- [Registered Teams](./Newbie/mentorship/teams.md)
+- [Coach List](./Newbie/mentorship/coach.md)
+- [Leaderboard](./Newbie/mentorship/leaderboard.md)

@@ -170,8 +170,14 @@ def refresh_page(sheetID, target):
     with open(file, 'w') as f:
         f.write(page_md)
 
-refresh_page()
+# refresh_page()
 
 # Tourney 12 Aug 2023
-# https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit#gid=1885268704\
+# https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit#gid=1885268704
 # sheetID = "1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s"
+
+# Tourney 19 Aug 2023
+# https://docs.google.com/spreadsheets/d/1-oU56f4sAR4JJasuqFoxIqoH7humhXVhJuBwAMH5ZG0/edit#gid=1885268704
+sheetID = "1-oU56f4sAR4JJasuqFoxIqoH7humhXVhJuBwAMH5ZG0"
+target = "./IndependenceDay/leaderboard.md"
+refresh_page(sheetID, target)
