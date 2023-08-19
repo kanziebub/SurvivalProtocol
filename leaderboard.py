@@ -66,7 +66,7 @@ def set_leaderboard_page(df):
 layout: default
 ---
 
-[< Home](./)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
 
 # **Leaderboard**
 
@@ -129,7 +129,7 @@ layout: default
     """
 
     home = """
-[< Home](./)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
     """
 
 #     script = """

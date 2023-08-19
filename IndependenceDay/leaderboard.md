@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[< Home](./)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
 
 # **Leaderboard**
 
@@ -25,5 +25,5 @@ layout: default
 |:-------|:----------|:--------|:----------------------|
 |        |           |         |                       |
     
-[< Home](./)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
     
