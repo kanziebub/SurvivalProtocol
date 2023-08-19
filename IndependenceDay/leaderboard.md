@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **CEPU** | 0 | **0** | 
-| #**2** | **PemujaLortYuuyaKyoua** | 0 | **0** | 
-| #**3** | **AYAYA** | 0 | **0** | 
-| #**4** | F4E | 0 | 0 | 
-| #**5** | SKILLISSUE | 0 | 0 | 
-| #**6** | PengenDijepitPahaBianca | 0 | 0 | 
-| #**7** | BAmbuKRoco | 0 | 0 | 
-| #**8** | TILT | 0 | 0 | 
+| #**1** | **PengenDijepitPahaBianca** | 11 | **142** | 
+| #**2** | **AYAYA** | 7 | **88** | 
+| #**3** | **TILT** | 7 | **78** | 
+| #**4** | SKILLISSUE | 6 | 64 | 
+| #**5** | F4E | 3 | 54 | 
+| #**6** | PemujaLortYuuyaKyoua | 4 | 52 | 
+| #**7** | CEPU | 4 | 42 | 
+| #**8** | BAmbuKRoco | 0 | 1 | 
 
 ## Penalty Log
 
