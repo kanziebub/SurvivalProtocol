@@ -125,7 +125,7 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|   04   |   TUYUL   |  -10    | Rehost: Main Augment  |
+|        |           |         |                       |
     """
 
     home = """
@@ -160,21 +160,24 @@ layout: default
 
 # =====================================================
 
+def write_page(target, page_md):
+    with open(target, 'w') as f:
+        f.write(page_md)
+
 def refresh_page(sheetID, target):
     sheetName = "ERCT"
 
     df = set_df(sheetID, sheetName)
 
     page_md = set_leaderboard_page(df)
-    file = target + '.md'
-    with open(file, 'w') as f:
-        f.write(page_md)
+    write_page(target, page_md)
 
 # refresh_page()
 
 # Tourney 12 Aug 2023
 # https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit#gid=1885268704
 # sheetID = "1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s"
+# target = "leaderboard.md"
 
 # Tourney 19 Aug 2023
 # https://docs.google.com/spreadsheets/d/1-oU56f4sAR4JJasuqFoxIqoH7humhXVhJuBwAMH5ZG0/edit#gid=1885268704
