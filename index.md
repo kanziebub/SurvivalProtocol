@@ -18,6 +18,7 @@ Official Release Celebratory (12 Aug 2023):
 ID Independence Day (19 Aug 2023):
 - [Registered Teams](./IndependenceDay/teams.html)
 - [Leaderboard](./IndependenceDay/leaderboard.md)
+- [Minigames](./IndependenceDay/minigames.md)
 
 Newbie Mentorship (16 Sep 2023):
 - [Registered Teams](./Newbie/mentorship/teams.md)
