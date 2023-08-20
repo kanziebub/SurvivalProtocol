@@ -12,7 +12,7 @@ layout: default
   - CEPUーArisu
 - PemujaLortYuuyaKyoua
   - Mizyx
-  - HPTNao
+  - Peposadge
   - CEPUーJandaHnter
 - AYAYA
   - Mistral
