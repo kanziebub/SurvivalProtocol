@@ -6,11 +6,11 @@ layout: default
 
 # **Newbie Mentorship: Coaches**
 
-### CEPUーLuminears | Luminears
+### CEPUーLuminears
 
 ![Luminears](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Luminears.png)
 
-### CEPUーValsh | Valshione
+### CEPUーValsh 
 
 ![Valshione](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Valshione.png)
 
@@ -18,11 +18,11 @@ layout: default
 
 ![Gallileo](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Gallileo.png)
 
-### GhostQuartz | Arzhenia
+### GhostQuartz 
 
 ![Arzhenia](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Arzhenia.png)
 
-### HPTNao | Kyouz
+### Kyoua
 
 ![Kyoua](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Kyoua.png)
 
@@ -38,7 +38,7 @@ layout: default
 
 ![Mizyx](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Mizyx.png)
 
-### Onryou | Jocel
+### Onryou 
 
 ![Jocel](https://kanziebub.github.io/SurvivalProtocol/assets/profile/Jocel.png)
 
