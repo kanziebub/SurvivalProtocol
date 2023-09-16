@@ -32,8 +32,8 @@ layout: default
   - miracl
 - EX_ANAK_SETAN
   - Exhallist
-  - Syaithon
-  - AnakPaus
+  - THEIMPREGNATOR
+  - dysniy
 - MatiLampu
   - Xeczion
   - MikuV1
