@@ -23,7 +23,7 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|   03   | AYAYA     |    10   | Non-Player Death      |
+|      |      |       |       |
     
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
     
