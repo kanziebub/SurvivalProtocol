@@ -181,6 +181,9 @@ def refresh_page(sheetID, target):
 
 # Tourney 19 Aug 2023
 # https://docs.google.com/spreadsheets/d/1-oU56f4sAR4JJasuqFoxIqoH7humhXVhJuBwAMH5ZG0/edit#gid=1885268704
-sheetID = "1-oU56f4sAR4JJasuqFoxIqoH7humhXVhJuBwAMH5ZG0"
-target = "./IndependenceDay/leaderboard.md"
+
+# Newbie Tourney 16 Sep 2023
+# https://docs.google.com/spreadsheets/d/1Xos9Iojq58I-wSbZfjx4hX8QiWGCLupcLuZxerTebSs/edit?usp=sharing
+sheetID = "1Xos9Iojq58I-wSbZfjx4hX8QiWGCLupcLuZxerTebSs"
+target = "./Newbie/mentorship/leaderboard.md"
 refresh_page(sheetID, target)
