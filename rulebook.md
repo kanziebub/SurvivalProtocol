@@ -12,17 +12,17 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 
 |  Rank  | Points |
 |:-------|:-------|
-| #**1** |   32   | 
-| #**2** |   24   | 
-| #**3** |   18   | 
-| #**4** |   12   | 
-| #**5** |   08   | 
-| #**6** |   04   | 
-| #**7** |   02   | 
-| #**8** |   01   | 
+| #**1** |   8   | 
+| #**2** |   5   | 
+| #**3** |   4   | 
+| #**4** |   3   | 
+| #**5** |   2   | 
+| #**6** |   1   | 
+| #**7** |   0   | 
+| #**8** |   0   | 
 
-*   1 TK = 10 Points
-*   Death from NON-Player = - 10 Points
+*   1 TK = 2 Points
+*   Death from NON-Player = - 2 Points
 
 > If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 10 Points will be deducted from that Player’s Round Point total. 
 >
