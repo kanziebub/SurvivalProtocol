@@ -6,24 +6,24 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 2
+### Games Played = 3
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **SKILLISSUEV2** | 42 | **100** | 
-| #**2** | **AkuButuhTeman** | 15 | **35** | 
-| #**3** | **FallenEnternity** | 10 | **24** | 
-| #**4** | EX_ANAK_SETAN | 8 | 18 | 
-| #**5** | Jingliu1_3 | 4 | 11 | 
-| #**6** | Bebek | 2 | 11 | 
-| #**7** | JumpPadForTheWin | 3 | 10 | 
-| #**8** | MatiLampu | 2 | 9 | 
+| #**1** | **SKILLISSUEV2** | 50 | **116** | 
+| #**2** | **AkuButuhTeman** | 26 | **65** | 
+| #**3** | **FallenEnternity** | 18 | **45** | 
+| #**4** | Bebek | 9 | 29 | 
+| #**5** | JumpPadForTheWin | 8 | 23 | 
+| #**6** | EX_ANAK_SETAN | 8 | 18 | 
+| #**7** | MatiLampu | 4 | 14 | 
+| #**8** | Jingliu1_3 | 4 | 11 | 
 
 ## Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|      |      |       |       |
+|   03   |   Jingliu1_3   |   -2    |    Remake: Character   |
     
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
     

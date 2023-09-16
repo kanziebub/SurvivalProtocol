@@ -125,7 +125,7 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|      |      |       |       |
+|   03   |   Jingliu1_3   |   -2    |    Remake: Character   |
     """
 
     home = """
