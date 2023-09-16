@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FallenEnternity** | 0 | **0** | 
-| #**2** | **Jingliu1_3** | 0 | **0** | 
-| #**3** | **SKILLISSUEV2** | 0 | **0** | 
-| #**4** | AkuButuhTeman | 0 | 0 | 
-| #**5** | Bebek | 0 | 0 | 
-| #**6** | JumpPadForTheWin | 0 | 0 | 
-| #**7** | EX_ANAK_SETAN | 0 | 0 | 
-| #**8** | MatiLampu | 0 | 0 | 
+| #**1** | **SKILLISSUEV2** | 22 | **52** | 
+| #**2** | **EX_ANAK_SETAN** | 8 | **18** | 
+| #**3** | **FallenEnternity** | 6 | **13** | 
+| #**4** | AkuButuhTeman | 4 | 8 | 
+| #**5** | MatiLampu | 2 | 8 | 
+| #**6** | Jingliu1_3 | 2 | 7 | 
+| #**7** | Bebek | 1 | 7 | 
+| #**8** | JumpPadForTheWin | 1 | 2 | 
 
 ## Penalty Log
 
