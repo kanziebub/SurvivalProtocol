@@ -14,10 +14,10 @@ layout: default
 | #**2** | **AkuButuhTeman** | 15 | **35** | 
 | #**3** | **FallenEnternity** | 10 | **24** | 
 | #**4** | EX_ANAK_SETAN | 8 | 18 | 
-| #**5** | Bebek | 2 | 11 | 
-| #**6** | JumpPadForTheWin | 3 | 10 | 
-| #**7** | MatiLampu | 2 | 9 | 
-| #**8** | Jingliu1_3 | 2 | 7 | 
+| #**5** | Jingliu1_3 | 4 | 11 | 
+| #**6** | Bebek | 2 | 11 | 
+| #**7** | JumpPadForTheWin | 3 | 10 | 
+| #**8** | MatiLampu | 2 | 9 | 
 
 ## Penalty Log
 
