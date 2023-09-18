@@ -125,7 +125,7 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|   03   |   Jingliu1_3   |   -2    |    Remake: Character   |
+|      |      |      |      |
     """
 
     home = """
@@ -184,6 +184,9 @@ def refresh_page(sheetID, target):
 
 # Newbie Tourney 16 Sep 2023
 # https://docs.google.com/spreadsheets/d/1Xos9Iojq58I-wSbZfjx4hX8QiWGCLupcLuZxerTebSs/edit?usp=sharing
-sheetID = "1Xos9Iojq58I-wSbZfjx4hX8QiWGCLupcLuZxerTebSs"
-target = "./Newbie/mentorship/leaderboard.md"
+
+# EPIC Invitational 30 Sep 2023
+# https://docs.google.com/spreadsheets/d/1bb3O4pUtXvQ6jCWKcpB9-wCUlwL_jMRML8fYYN0PDs4/edit#gid=1885268704
+sheetID = "1bb3O4pUtXvQ6jCWKcpB9-wCUlwL_jMRML8fYYN0PDs4"
+target = "./Invitational/01/leaderboard.md"
 refresh_page(sheetID, target)
