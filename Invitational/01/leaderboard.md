@@ -10,14 +10,14 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FallenEnternity** | 0 | **0** | 
-| #**2** | **Jingliu1_3** | 0 | **0** | 
-| #**3** | **SKILLISSUEV2** | 0 | **0** | 
-| #**4** | AkuButuhTeman | 0 | 0 | 
-| #**5** | Bebek | 0 | 0 | 
-| #**6** | JumpPadForTheWin | 0 | 0 | 
-| #**7** | EX_ANAK_SETAN | 0 | 0 | 
-| #**8** | MatiLampu | 0 | 0 | 
+| #**1** | **Aquors** | 0 | **0** | 
+| #**2** | **Reset Or Go Home** | 0 | **0** | 
+| #**3** | **Gallileo Sang Babu** | 0 | **0** | 
+| #**4** | WishlistMatchmakerAgency | 0 | 0 | 
+| #**5** | CEPU | 0 | 0 | 
+| #**6** | Destined Death | 0 | 0 | 
+| #**7** | VallethBizzareAdventure | 0 | 0 | 
+| #**8** | Bullshitbangetitu | 0 | 0 | 
 
 ## Penalty Log
 

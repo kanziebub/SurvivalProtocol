@@ -30,10 +30,11 @@ def get_by_rank(df, rank, field):
     return row[field].values[0]
 
 def get_games_played(df):
-    num = 0
-    row = df.iloc[0:1]
-    num = row['Games Played'].values[0]
+    num = max(df['Games Played'].values)
     return num
+
+def convert_to_int(value):
+    return value if isinstance(value, int) else 0
 
 # =====================================================
 
@@ -71,7 +72,7 @@ layout: default
 # **Leaderboard**
 
 """
-    leaderboard_md = leaderboard_md + "### Games Played = " + str(int(get_games_played(df))) + "\n"
+    leaderboard_md = leaderboard_md + "### Games Played = " + str(convert_to_int(get_games_played(df))) + "\n"
     
     # ---------------------------------
 
@@ -84,14 +85,14 @@ layout: default
     rank7team = get_by_rank(df, 7, "Name")
     rank8team = get_by_rank(df, 8, "Name")
 
-    rank1kill = get_by_rank(df, 1, "Total TK")
-    rank2kill = get_by_rank(df, 2, "Total TK")
-    rank3kill = get_by_rank(df, 3, "Total TK")
-    rank4kill = get_by_rank(df, 4, "Total TK")
-    rank5kill = get_by_rank(df, 5, "Total TK")
-    rank6kill = get_by_rank(df, 6, "Total TK")
-    rank7kill = get_by_rank(df, 7, "Total TK")
-    rank8kill = get_by_rank(df, 8, "Total TK")
+    rank1kill = get_by_rank(df, 1, "Total Team Kill")
+    rank2kill = get_by_rank(df, 2, "Total Team Kill")
+    rank3kill = get_by_rank(df, 3, "Total Team Kill")
+    rank4kill = get_by_rank(df, 4, "Total Team Kill")
+    rank5kill = get_by_rank(df, 5, "Total Team Kill")
+    rank6kill = get_by_rank(df, 6, "Total Team Kill")
+    rank7kill = get_by_rank(df, 7, "Total Team Kill")
+    rank8kill = get_by_rank(df, 8, "Total Team Kill")
 
     rank1poin = get_by_rank(df, 1, "Total Point")
     rank2poin = get_by_rank(df, 2, "Total Point")
@@ -106,14 +107,14 @@ layout: default
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 """
-    rank1 = "| #**1** | **" +str(rank1team)+ "** | " +str(int(rank1kill))+ " | **" +str(int(rank1poin))+ "** | \n"
-    rank2 = "| #**2** | **" +str(rank2team)+ "** | " +str(int(rank2kill))+ " | **" +str(int(rank2poin))+ "** | \n"
-    rank3 = "| #**3** | **" +str(rank3team)+ "** | " +str(int(rank3kill))+ " | **" +str(int(rank3poin))+ "** | \n"
-    rank4 = "| #**4** | " +str(rank4team)+ " | " +str(int(rank4kill))+ " | " +str(int(rank4poin))+ " | \n"
-    rank5 = "| #**5** | " +str(rank5team)+ " | " +str(int(rank5kill))+ " | " +str(int(rank5poin))+ " | \n"
-    rank6 = "| #**6** | " +str(rank6team)+ " | " +str(int(rank6kill))+ " | " +str(int(rank6poin))+ " | \n"
-    rank7 = "| #**7** | " +str(rank7team)+ " | " +str(int(rank7kill))+ " | " +str(int(rank7poin))+ " | \n"
-    rank8 = "| #**8** | " +str(rank8team)+ " | " +str(int(rank8kill))+ " | " +str(int(rank8poin))+ " | \n"
+    rank1 = "| #**1** | **" +str(rank1team)+ "** | " +str(convert_to_int(rank1kill))+ " | **" +str(convert_to_int(rank1poin))+ "** | \n"
+    rank2 = "| #**2** | **" +str(rank2team)+ "** | " +str(convert_to_int(rank2kill))+ " | **" +str(convert_to_int(rank2poin))+ "** | \n"
+    rank3 = "| #**3** | **" +str(rank3team)+ "** | " +str(convert_to_int(rank3kill))+ " | **" +str(convert_to_int(rank3poin))+ "** | \n"
+    rank4 = "| #**4** | " +str(rank4team)+ " | " +str(convert_to_int(rank4kill))+ " | " +str(convert_to_int(rank4poin))+ " | \n"
+    rank5 = "| #**5** | " +str(rank5team)+ " | " +str(convert_to_int(rank5kill))+ " | " +str(convert_to_int(rank5poin))+ " | \n"
+    rank6 = "| #**6** | " +str(rank6team)+ " | " +str(convert_to_int(rank6kill))+ " | " +str(convert_to_int(rank6poin))+ " | \n"
+    rank7 = "| #**7** | " +str(rank7team)+ " | " +str(convert_to_int(rank7kill))+ " | " +str(convert_to_int(rank7poin))+ " | \n"
+    rank8 = "| #**8** | " +str(rank8team)+ " | " +str(convert_to_int(rank8kill))+ " | " +str(convert_to_int(rank8poin))+ " | \n"
 
     lbtable = lbtable + rank1 + rank2 + rank3 + rank4 + rank5 + rank6 + rank7 + rank8
     leaderboard_md = leaderboard_md + lbtable
