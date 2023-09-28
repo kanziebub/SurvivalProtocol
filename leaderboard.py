@@ -150,7 +150,6 @@ def refresh_page(sheetID, target):
     sheetName = "ERCT"
 
     df = set_df(sheetID, sheetName)
-    print(df)
 
     page_md = set_leaderboard_page(df)
     write_page(target, page_md)
