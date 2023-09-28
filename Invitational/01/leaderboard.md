@@ -10,20 +10,22 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **FallenEnternity** | 0 | **0** | 
-| #**2** | **Jingliu1_3** | 0 | **0** | 
-| #**3** | **SKILLISSUEV2** | 0 | **0** | 
-| #**4** | AkuButuhTeman | 0 | 0 | 
-| #**5** | Bebek | 0 | 0 | 
-| #**6** | JumpPadForTheWin | 0 | 0 | 
-| #**7** | EX_ANAK_SETAN | 0 | 0 | 
-| #**8** | MatiLampu | 0 | 0 | 
+| #**1** | **TILT** | 0 | **0** | 
+| #**2** | **Aquors** | 0 | **0** | 
+| #**3** | **Reset Or Go Home** | 0 | **0** | 
+| #**4** | Gallileo Sang Babu | 0 | 0 | 
+| #**5** | WishlistMatchmakerAgency | 0 | 0 | 
+| #**6** | CEPU | 0 | 0 | 
+| #**7** | Destined Death | 0 | 0 | 
+| #**8** | VallethBizzareAdventure | 0 | 0 | 
+| #**9** | Bullshitbangetitu | 0 | 0 | 
+| #**10** | Destined Life | 0 | 0 | 
 
 ## Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|      |      |      |      |
+|        |           |         |                       |
     
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
     
