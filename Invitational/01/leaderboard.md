@@ -10,16 +10,16 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **TILT** | 29 | **72** | 
-| #**2** | **Gallileo Sang Babu** | 28 | **69** | 
-| #**3** | **Bullshitbangetitu** | 26 | **68** | 
-| #**4** | Aquors | 29 | 66 | 
-| #**5** | Destined Life | 25 | 54 | 
-| #**6** | WishlistMatchmakerAgency | 15 | 44 | 
-| #**7** | Reset Or Go Home | 19 | 40 | 
-| #**8** | VallethBizzareAdventure | 16 | 40 | 
-| #**9** | CEPU | 16 | 39 | 
-| #**10** | Destined Death | 14 | 34 | 
+| #**1** | **TILT** | 40 | **97** | 
+| #**2** | **Bullshitbangetitu** | 33 | **83** | 
+| #**3** | **Destined Death** | 31 | **76** | 
+| #**4** | Destined Life | 34 | 72 | 
+| #**5** | Gallileo Sang Babu | 29 | 71 | 
+| #**6** | Aquors | 30 | 70 | 
+| #**7** | VallethBizzareAdventure | 20 | 53 | 
+| #**8** | Reset Or Go Home | 20 | 46 | 
+| #**9** | WishlistMatchmakerAgency | 15 | 44 | 
+| #**10** | CEPU | 16 | 39 | 
 
 ## Penalty Log
 
