@@ -32,7 +32,7 @@ layout: default
   - CEPUーValsh
 - Destined Death
   - Extera
-  - ZaeDarius
+  - Rivulose
   - Lolzilla
 - VallethBizzareAdventure
   - Argos1
