@@ -40,7 +40,7 @@ layout: default
   - Kenpid
 - Bullshitbangetitu
   - Itsyaboywhy
-  - Avudio
+  - Lovemate
   - Mizyx
 - Destined Life
   - Jocel
