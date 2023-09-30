@@ -23,9 +23,9 @@ layout: default
 
 ## Penalty Log
 
-|  Game  | Team Name | Penalty | Reason                |
-|:-------|:----------|:--------|:----------------------|
-|        |           |         |                       |
+|  Game  |  Team Name  | Penalty | Reason                |
+|:-------|:------------|:--------|:----------------------|
+|   02   |Destined Life|   -2    |  Dead in the redzone  |
     
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
     
