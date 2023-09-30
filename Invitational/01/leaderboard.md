@@ -6,20 +6,20 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 1
+### Games Played = 2
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **TILT** | 18 | **44** | 
-| #**2** | **Aquors** | 14 | **30** | 
-| #**3** | **Gallileo Sang Babu** | 12 | **29** | 
-| #**4** | Reset Or Go Home | 11 | 22 | 
-| #**5** | WishlistMatchmakerAgency | 3 | 10 | 
-| #**6** | VallethBizzareAdventure | 1 | 5 | 
-| #**7** | Destined Death | 2 | 4 | 
-| #**8** | CEPU | 1 | 3 | 
-| #**9** | Bullshitbangetitu | 0 | 0 | 
-| #**10** | Destined Life | 0 | 0 | 
+| #**1** | **TILT** | 26 | **64** | 
+| #**2** | **Aquors** | 24 | **55** | 
+| #**3** | **Gallileo Sang Babu** | 16 | **37** | 
+| #**4** | Bullshitbangetitu | 13 | 34 | 
+| #**5** | Destined Life | 15 | 33 | 
+| #**6** | Reset Or Go Home | 15 | 30 | 
+| #**7** | WishlistMatchmakerAgency | 7 | 20 | 
+| #**8** | CEPU | 5 | 12 | 
+| #**9** | VallethBizzareAdventure | 1 | 5 | 
+| #**10** | Destined Death | 2 | 4 | 
 
 ## Penalty Log
 
