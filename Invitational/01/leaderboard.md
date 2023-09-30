@@ -6,18 +6,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **TILT** | 0 | **0** | 
-| #**2** | **Aquors** | 0 | **0** | 
-| #**3** | **Reset Or Go Home** | 0 | **0** | 
-| #**4** | Gallileo Sang Babu | 0 | 0 | 
-| #**5** | WishlistMatchmakerAgency | 0 | 0 | 
-| #**6** | CEPU | 0 | 0 | 
-| #**7** | Destined Death | 0 | 0 | 
-| #**8** | VallethBizzareAdventure | 0 | 0 | 
+| #**1** | **TILT** | 18 | **44** | 
+| #**2** | **Aquors** | 14 | **30** | 
+| #**3** | **Gallileo Sang Babu** | 12 | **29** | 
+| #**4** | Reset Or Go Home | 11 | 22 | 
+| #**5** | WishlistMatchmakerAgency | 3 | 10 | 
+| #**6** | VallethBizzareAdventure | 1 | 5 | 
+| #**7** | Destined Death | 2 | 4 | 
+| #**8** | CEPU | 1 | 3 | 
 | #**9** | Bullshitbangetitu | 0 | 0 | 
 | #**10** | Destined Life | 0 | 0 | 
 
