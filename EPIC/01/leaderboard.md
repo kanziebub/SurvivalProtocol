@@ -6,26 +6,26 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **TILT** | 0 | **0** | 
-| #**2** | **Aquors** | 0 | **0** | 
-| #**3** | **Reset Or Go Home** | 0 | **0** | 
-| #**4** | Gallileo Sang Babu | 0 | 0 | 
-| #**5** | WishlistMatchmakerAgency | 0 | 0 | 
-| #**6** | CEPU | 0 | 0 | 
-| #**7** | Destined Death | 0 | 0 | 
-| #**8** | VallethBizzareAdventure | 0 | 0 | 
-| #**9** | Bullshitbangetitu | 0 | 0 | 
-| #**10** | Destined Life | 0 | 0 | 
+| #**1** | **TILT** | 40 | **97** | 
+| #**2** | **Bullshitbangetitu** | 33 | **83** | 
+| #**3** | **Destined Death** | 31 | **76** | 
+| #**4** | Destined Life | 34 | 72 | 
+| #**5** | Gallileo Sang Babu | 29 | 71 | 
+| #**6** | Aquors | 30 | 70 | 
+| #**7** | VallethBizzareAdventure | 20 | 53 | 
+| #**8** | Reset Or Go Home | 20 | 46 | 
+| #**9** | WishlistMatchmakerAgency | 15 | 44 | 
+| #**10** | CEPU | 16 | 39 | 
 
 ## Penalty Log
 
-|  Game  | Team Name | Penalty | Reason                |
-|:-------|:----------|:--------|:----------------------|
-|        |           |         |                       |
+|  Game  |   Team Name   | Penalty | Reason                |
+|:-------|:--------------|:--------|:----------------------|
+|   02   | Destined Life |   -2    |  Dead in the redzone  |
     
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
     

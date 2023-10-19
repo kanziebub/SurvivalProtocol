@@ -32,7 +32,7 @@ layout: default
   - CEPUーValsh
 - Destined Death
   - Extera
-  - ZaeDarius
+  - Rivulose
   - Lolzilla
 - VallethBizzareAdventure
   - Argos1
@@ -40,7 +40,7 @@ layout: default
   - Kenpid
 - Bullshitbangetitu
   - Itsyaboywhy
-  - Avudio
+  - Lovemate
   - Mizyx
 - Destined Life
   - Jocel
