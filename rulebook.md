@@ -22,14 +22,16 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 | #**8** |   0   | 
 
 *   1 TK = 2 Points
-*   Penalty = - 2 Points
-*   Targeted Griefing = -10 Points
+*   Penalty = -2 Points
+*   Hostage Holding = -10 Points
 
 > If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 10 Points will be deducted from that Player’s Round Point total. 
 >
 > If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 10 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total
 >
 > If a team has more than 10 points deducted as penalty, that team will be disqualified from the tournament.
+>
+> Hostage holding is when a player does not end a downed player until day 5 to prevent revival. This scenario will be reviewed by TO case by case.
 
 ## Tiebreaker Rules
 
