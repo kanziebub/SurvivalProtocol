@@ -6,61 +6,61 @@ layout: default
 
 # **EPIC Invitational: Registered Teams**
 
-- PlayMyHeroUltimateRumble
+- [A] PlayMyHeroUltimateRumble
   - Mizyx
   - Gallileo
   - Kyoua
-- Maba
-  - Zaku
-  - MaZee
-  - Diuturna
-- FullSweat Tryhard NoChill 
+- [A] FullSweat Tryhard NoChill 
   - Nyan
   - SmolWitchMarisa
   - Almaros
-- Ditinggal Gallileo
+- [A] Ditinggal Gallileo
   - ChuChuLovelyMuni
   - Gw123
   - CEPUーJandaHnter
-- µ's
+- [A] µ's
   - Sachiko
   - Rion34
   - Valleth
-- TILT
-  - TaliyahOma
-  - Dice21
-  - LucisC
-- Everfall
-  - Yharim
-  - Aschente24
-  - grint녹차
-- SKILLISSUE 
-  - Onryou
-  - Mintdesu
-  - SaintHolo
-- Theo Lover
+- [A] Theo Lover
   - HentaiManz
   - MieAyam
   - Aquabed
-- Jocel Fake Info
+- [A] Jocel Fake Info
   - Extera
   - Lolzilla
   - ZaeDarius
-- Momoka Diamond
-  - CEPUーArisu
-  - CEPUーLuminears
-  - CEPUーValsh
-- MelonCat Gaming
-  - RotiCarrot
-  - Sum
-  - Kriegz
-- Astral
-  - Spinifer
-  - Stein5
-  - TwitchArierty
-- 20% AMP Enjoyer
+- [A] 20% AMP Enjoyer
   - Restifik
   - Gyoo
   - Rivulose
+- [B] Maba
+  - Zaku
+  - MaZee
+  - Diuturna
+- [B] TILT
+  - TaliyahOma
+  - Dice21
+  - LucisC
+- [B] Everfall
+  - Yharim
+  - Aschente24
+  - grint녹차
+- [B] SKILLISSUE 
+  - Onryou
+  - Mintdesu
+  - SaintHolo
+- [B] Momoka Diamond
+  - CEPUーArisu
+  - CEPUーLuminears
+  - CEPUーValsh
+- [B] MelonCat Gaming
+  - RotiCarrot
+  - Sum
+  - Kriegz
+- [B] Astral
+  - Spinifer
+  - Stein5
+  - TwitchArierty
 
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
