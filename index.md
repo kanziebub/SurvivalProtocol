@@ -26,5 +26,9 @@ Newbie Mentorship (16 Sep 2023):
 - [Leaderboard](./Newbie/mentorship/leaderboard.md)
 
 EPIC Invitational (30 Sep 2023):
-- [Registered Teams](./Invitational/01/teams.md)
-- [Leaderboard](./Invitational/01/leaderboard.md)
+- [Registered Teams](./EPIC/01/teams.md)
+- [Leaderboard](./EPIC/01/leaderboard.md)
+
+EPIC 2.0 Open (21-22 Sep 2023): 
+- [Registered Teams](./EPIC/02/teams.md)
+- [Leaderboard](./EPIC/02/leaderboard.md)
