@@ -25,9 +25,9 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 *   Penalty = -2 Points
 *   Hostage Holding = -10 Points
 
-> If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 10 Points will be deducted from that Player’s Round Point total. 
+> If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 2 Points will be deducted from that Player’s Round Point total. 
 >
-> If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 10 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total
+> If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 2 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total
 
 
 ## Tiebreaker Rules
@@ -75,9 +75,9 @@ All players should be familiar with all rules and guidelines in this rulebook. P
 
 ## Rehost
 
-Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks + Main Augment. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match.] [Failure to do so will be subjected to -10 points for each rule broken]
+Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks + Main Augment. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match.] [Failure to do so will be subjected to -2 points for each rule broken]
 
-> **Example**: “Player A” retains the same character pick but fails to pick the same previously selected “Main Augment”, therefore -10 points will be deducted. If both options are picked wrongly, -20 points will be deducted.
+> **Example**: “Player A” retains the same character pick but fails to pick the same previously selected “Main Augment”, therefore -2 points will be deducted. If both options are picked wrongly, -4 points will be deducted.
 
 ## Disconnect during In Game
 
