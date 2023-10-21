@@ -7,17 +7,17 @@ layout: default
 
 # **Lobby A Leaderboard**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **PlayMyHeroUltimate** | 29 | **69** | 
-| #**2** | **µ's** | 24 | **66** | 
-| #**3** | **20% AMP Enjoyer** | 23 | **52** | 
-| #**4** | Jocel Fake Info | 18 | 43 | 
-| #**5** | Ditinggal Gallileo | 17 | 42 | 
-| #**6** | Theo Lover | 12 | 29 | 
-| #**7** | FullSweat Tryhard NoChill | 3 | 12 | 
+| #**1** | **PlayMyHeroUltimate** | 42 | **103** | 
+| #**2** | **20% AMP Enjoyer** | 36 | **82** | 
+| #**3** | **µ's** | 25 | **68** | 
+| #**4** | Ditinggal Gallileo | 24 | 61 | 
+| #**5** | Jocel Fake Info | 24 | 57 | 
+| #**6** | Theo Lover | 12 | 32 | 
+| #**7** | FullSweat Tryhard NoChill | 4 | 15 | 
 
 ### Penalty Log
 
@@ -25,6 +25,7 @@ layout: default
 |:-------|:----------|:--------|:----------------------|
 | A01 | FullSweat Tryhard NoChill | -2 | Non-Player Death | 
 | A04 | Theo Lover | -2 | Remake: Tac Skill | 
+| A04 | 20% AMP Enjoyer | -2 | Non-Player Death | 
  
  
 
