@@ -16,7 +16,7 @@ layout: default
 | #**3** | **20% AMP Enjoyer** | 23 | **52** | 
 | #**4** | Jocel Fake Info | 18 | 43 | 
 | #**5** | Ditinggal Gallileo | 17 | 42 | 
-| #**6** | Theo Lover | 12 | 31 | 
+| #**6** | Theo Lover | 12 | 29 | 
 | #**7** | FullSweat Tryhard NoChill | 3 | 12 | 
 
 ### Penalty Log
@@ -24,6 +24,7 @@ layout: default
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
 | A01 | FullSweat Tryhard NoChill | -2 | Non-Player Death | 
+| A04 | Theo Lover | -2 | Remake: Tac Skill | 
  
  
 
