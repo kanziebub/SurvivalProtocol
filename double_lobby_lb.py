@@ -3,7 +3,7 @@ import pandas as pd
 
 def set_df(id, name):
     url = f'https://docs.google.com/spreadsheets/d/{id}/gviz/tq?tqx=out:csv&sheet={name}'
-    df = pd.read_csv(url)
+    df = pd.read_csv(url, encoding='latin')
     df = df.iloc[1:11 , 1:9]
 
     df.rename(

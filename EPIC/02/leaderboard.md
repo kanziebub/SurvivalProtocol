@@ -16,7 +16,7 @@ layout: default
 | #**3** | **20% AMP Enjoyer** | 0 | **0** | 
 | #**4** | PlayMyHeroUltimateRumble | 0 | 0 | 
 | #**5** | Jocel Fake Info | 0 | 0 | 
-| #**6** | µ's | 0 | 0 | 
+| #**6** | Âµ's | 0 | 0 | 
 | #**7** | Theo Lover | 0 | 0 | 
 
 ### Penalty Log
