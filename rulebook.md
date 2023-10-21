@@ -20,6 +20,7 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 | #**6** |   1   | 
 | #**7** |   0   | 
 | #**8** |   0   | 
+| Escape |   0   | 
 
 *   1 TK = 2 Points
 *   Penalty = -2 Points
