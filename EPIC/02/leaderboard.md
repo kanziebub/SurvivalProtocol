@@ -29,17 +29,17 @@ layout: default
 
 # **Lobby B Leaderboard**
 
-### Games Played = 2
+### Games Played = 3
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **SKILLISSUE** | 40 | **96** | 
-| #**2** | **TILT** | 15 | **36** | 
-| #**3** | **MelonCat Gaming** | 13 | **35** | 
-| #**4** | Astral | 9 | 23 | 
-| #**5** | Momoka Diamond | 10 | 21 | 
-| #**6** | Maba | 6 | 15 | 
-| #**7** | Everfall | 3 | 10 | 
+| #**1** | **SKILLISSUE** | 47 | **118** | 
+| #**2** | **TILT** | 30 | **68** | 
+| #**3** | **MelonCat Gaming** | 20 | **54** | 
+| #**4** | Momoka Diamond | 19 | 43 | 
+| #**5** | Maba | 11 | 28 | 
+| #**6** | Astral | 11 | 28 | 
+| #**7** | Everfall | 4 | 12 | 
 
 ### Penalty Log
 
