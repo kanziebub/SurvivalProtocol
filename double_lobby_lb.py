@@ -56,6 +56,7 @@ def get_penalty_table():
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
+|        |           |         |                       |
     """
     return penalty
 
