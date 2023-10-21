@@ -7,17 +7,17 @@ layout: default
 
 # **Lobby A Leaderboard**
 
-### Games Played = 2
+### Games Played = 3
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **PlayMyHeroUltimate** | 17 | **43** | 
-| #**2** | **µ's** | 16 | **42** | 
-| #**3** | **Ditinggal Gallileo** | 14 | **36** | 
-| #**4** | Jocel Fake Info | 13 | 30 | 
-| #**5** | Theo Lover | 11 | 28 | 
-| #**6** | 20% AMP Enjoyer | 9 | 24 | 
-| #**7** | FullSweat Tryhard NoChill | 3 | 7 | 
+| #**1** | **PlayMyHeroUltimate** | 29 | **69** | 
+| #**2** | **µ's** | 24 | **66** | 
+| #**3** | **20% AMP Enjoyer** | 23 | **52** | 
+| #**4** | Jocel Fake Info | 18 | 43 | 
+| #**5** | Ditinggal Gallileo | 17 | 42 | 
+| #**6** | Theo Lover | 12 | 31 | 
+| #**7** | FullSweat Tryhard NoChill | 3 | 12 | 
 
 ### Penalty Log
 
