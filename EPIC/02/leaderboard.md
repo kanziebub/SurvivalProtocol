@@ -23,7 +23,8 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-     
+|        |           |         |                       | 
+ 
  
 
 # **Lobby B Leaderboard**
@@ -44,7 +45,8 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-     
+|        |           |         |                       | 
+ 
  
 
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)

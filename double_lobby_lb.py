@@ -56,8 +56,7 @@ def get_penalty_table():
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       |
-    """
+"""
     return penalty
 
 # =====================================================
@@ -121,18 +120,25 @@ def write_page(target, page_md):
 
 def refresh_page(sheetID_A, sheetID_B, target):
     sheetName = "ERCT"
+    penalty_placeholder = "|        |           |         |                       | \n"
 
     df_A = set_df(sheetID_A, sheetName)
-    leaderboard_A = """
+    leaderboard_A = ("""
 # **Lobby A Leaderboard**
 
-""" + set_leaderboard(df_A) + get_penalty_table() + " \n \n"
+""" + set_leaderboard(df_A) 
+    + get_penalty_table() 
+    + penalty_placeholder
+    + " \n \n")
 
     df_B = set_df(sheetID_B, sheetName)
-    leaderboard_B = """
+    leaderboard_B = ("""
 # **Lobby B Leaderboard**
 
-""" + set_leaderboard(df_B) + get_penalty_table() + " \n \n"
+""" + set_leaderboard(df_B) 
+    + get_penalty_table() 
+    + penalty_placeholder 
+    + " \n \n")
 
     page_md = (get_header() 
                + leaderboard_A
