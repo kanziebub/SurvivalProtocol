@@ -125,13 +125,13 @@ def refresh_page(sheetID_A, sheetID_B, target):
     leaderboard_A = """
 # **Lobby A Leaderboard**
 
-""" + set_leaderboard(df_A) + get_penalty_table() + " \n ## \n"
+""" + set_leaderboard(df_A) + get_penalty_table() + " \n \n"
 
     df_B = set_df(sheetID_B, sheetName)
     leaderboard_B = """
 # **Lobby B Leaderboard**
 
-""" + set_leaderboard(df_B) + get_penalty_table() + " \n ## \n"
+""" + set_leaderboard(df_B) + get_penalty_table() + " \n \n"
 
     page_md = (get_header() 
                + leaderboard_A
