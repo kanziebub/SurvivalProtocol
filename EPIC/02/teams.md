@@ -4,7 +4,7 @@ layout: default
 
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
 
-# **EPIC Invitational: Registered Teams**
+# **EPIC S2 Open: Registered Teams**
 
 - [A] PlayMyHeroUltimateRumble
   - Mizyx
