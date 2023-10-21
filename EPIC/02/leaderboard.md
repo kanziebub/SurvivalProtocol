@@ -7,45 +7,45 @@ layout: default
 
 # **Lobby A Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Ditinggal Gallileo** | 0 | **0** | 
-| #**2** | **FullSweat Tryhard NoChill** | 0 | **0** | 
-| #**3** | **20% AMP Enjoyer** | 0 | **0** | 
-| #**4** | PlayMyHeroUltimateRumble | 0 | 0 | 
-| #**5** | Jocel Fake Info | 0 | 0 | 
-| #**6** | µ's | 0 | 0 | 
-| #**7** | Theo Lover | 0 | 0 | 
+| #**1** | **PlayMyHeroUltimateRumble** | 10 | **24** | 
+| #**2** | **µ's** | 7 | **22** | 
+| #**3** | **20% AMP Enjoyer** | 8 | **21** | 
+| #**4** | Theo Lover | 4 | 10 | 
+| #**5** | Jocel Fake Info | 4 | 9 | 
+| #**6** | FullSweat Tryhard NoChill | 2 | 5 | 
+| #**7** | Ditinggal Gallileo | 1 | 2 | 
 
 ### Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       | 
+| A01 | FullSweat Tryhard NoChill | -2 | Non-Player Death | 
  
  
 
 # **Lobby B Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Maba** | 0 | **0** | 
-| #**2** | **TILT** | 0 | **0** | 
-| #**3** | **Everfall** | 0 | **0** | 
-| #**4** | SKILLISSUE | 0 | 0 | 
-| #**5** | Momoka Diamond | 0 | 0 | 
-| #**6** | MelonCat Gaming | 0 | 0 | 
-| #**7** | Astral | 0 | 0 | 
+| #**1** | **SKILLISSUE** | 19 | **46** | 
+| #**2** | **TILT** | 12 | **28** | 
+| #**3** | **Momoka Diamond** | 9 | **19** | 
+| #**4** | MelonCat Gaming | 6 | 17 | 
+| #**5** | Maba | 4 | 8 | 
+| #**6** | Everfall | 0 | 3 | 
+| #**7** | Astral | 1 | 2 | 
 
 ### Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       | 
+| B01 | Astral | -2 | Non-Player Death | 
  
  
 

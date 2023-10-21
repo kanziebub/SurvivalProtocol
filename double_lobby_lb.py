@@ -128,7 +128,7 @@ def refresh_page(sheetID_A, sheetID_B, target):
 
 """ + set_leaderboard(df_A) 
     + get_penalty_table() 
-    + penalty_placeholder
+    + set_penalty("A01", "FullSweat Tryhard NoChill", "-2", "Non-Player Death")
     + " \n \n")
 
     df_B = set_df(sheetID_B, sheetName)
@@ -137,7 +137,7 @@ def refresh_page(sheetID_A, sheetID_B, target):
 
 """ + set_leaderboard(df_B) 
     + get_penalty_table() 
-    + penalty_placeholder 
+    + set_penalty("B01", "Astral", "-2", "Non-Player Death") 
     + " \n \n")
 
     page_md = (get_header() 
