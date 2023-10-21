@@ -148,6 +148,6 @@ def refresh_page(sheetID, target):
 
 # EPIC Invitational 30 Sep 2023
 # https://docs.google.com/spreadsheets/d/1bb3O4pUtXvQ6jCWKcpB9-wCUlwL_jMRML8fYYN0PDs4/edit#gid=1885268704
-sheetID = "1bb3O4pUtXvQ6jCWKcpB9-wCUlwL_jMRML8fYYN0PDs4"
-target = "./Invitational/01/leaderboard.md"
-refresh_page(sheetID, target)
+# sheetID = "1bb3O4pUtXvQ6jCWKcpB9-wCUlwL_jMRML8fYYN0PDs4"
+# target = "./Invitational/01/leaderboard.md"
+# refresh_page(sheetID, target)
