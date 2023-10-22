@@ -18,6 +18,7 @@ layout: default
 | #**5** | SKILLISSUE | 0 | 0 | 
 | #**6** | TILT | 0 | 0 | 
 | #**7** | MelonCat Gaming | 0 | 0 | 
+| #**8** | Momoka Diamond | 0 | 0 | 
 
 ### Penalty Log
 

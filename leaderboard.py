@@ -76,6 +76,7 @@ def set_leaderboard(df):
     rank5team = get_by_rank(df, 5, "Name")
     rank6team = get_by_rank(df, 6, "Name")
     rank7team = get_by_rank(df, 7, "Name")
+    rank8team = get_by_rank(df, 8, "Name")
 
     rank1kill = get_by_rank(df, 1, "Total TK")
     rank2kill = get_by_rank(df, 2, "Total TK")
@@ -84,6 +85,7 @@ def set_leaderboard(df):
     rank5kill = get_by_rank(df, 5, "Total TK")
     rank6kill = get_by_rank(df, 6, "Total TK")
     rank7kill = get_by_rank(df, 7, "Total TK")
+    rank8kill = get_by_rank(df, 8, "Total TK")
 
     rank1poin = get_by_rank(df, 1, "Total Point")
     rank2poin = get_by_rank(df, 2, "Total Point")
@@ -92,6 +94,7 @@ def set_leaderboard(df):
     rank5poin = get_by_rank(df, 5, "Total Point")
     rank6poin = get_by_rank(df, 6, "Total Point")
     rank7poin = get_by_rank(df, 7, "Total Point")
+    rank8poin = get_by_rank(df, 8, "Total Point")
 
     lbtable = """
 |  Rank  | Team Name             | Total Kill | **Points** |
@@ -104,8 +107,9 @@ def set_leaderboard(df):
     rank5 = "| #**5** | " +str(rank5team)+ " | " +str(int(rank5kill))+ " | " +str(int(rank5poin))+ " | \n"
     rank6 = "| #**6** | " +str(rank6team)+ " | " +str(int(rank6kill))+ " | " +str(int(rank6poin))+ " | \n"
     rank7 = "| #**7** | " +str(rank7team)+ " | " +str(int(rank7kill))+ " | " +str(int(rank7poin))+ " | \n"
+    rank8 = "| #**8** | " +str(rank8team)+ " | " +str(int(rank8kill))+ " | " +str(int(rank8poin))+ " | \n"
 
-    lbtable = lbtable + rank1 + rank2 + rank3 + rank4 + rank5 + rank6 + rank7 
+    lbtable = lbtable + rank1 + rank2 + rank3 + rank4 + rank5 + rank6 + rank7 + rank8
     page_md  = leaderboard_md + lbtable
 
     return page_md
