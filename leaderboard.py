@@ -147,7 +147,6 @@ def main():
     target = "./EPIC/02/finals.md"
     sheetID = "1hCN56fy0dOZrc9UxU5WaiqpW5sjfiXSH9P2W_bPCaZE"
     sheetName = "ERCT"
-
     penalty_placeholder = "|        |           |         |                       | \n"
 
     df = set_df(sheetID, sheetName)
@@ -164,6 +163,6 @@ def main():
             #    + leaderboard_B
                + get_footer())
     write_page(target, page_md)
-    print(page_md)
+    # print(page_md)
 
 main()

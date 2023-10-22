@@ -16,7 +16,7 @@ layout: default
 | #**3** | **TILT** | 31 | **67** | 
 | #**4** | SKILLISSUE | 28 | 63 | 
 | #**5** | Ditinggal Gallileo | 24 | 59 | 
-| #**6** | µ's | 22 | 52 | 
+| #**6** | µ's | 22 | 50 | 
 | #**7** | Momoka Diamond | 18 | 41 | 
 | #**8** | MelonCat Gaming | 8 | 18 | 
 
