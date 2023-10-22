@@ -157,6 +157,7 @@ def main():
     + get_penalty_table() 
     + set_penalty("03", "Âµ's", "-2", "Non-Player Death") 
     + set_penalty("04", "TILT", "-2", "Non-Player Death") 
+    + set_penalty("05", "TILT", "-2", "Non-Player Death") 
     + " \n \n")
 
     page_md = (get_header() 
