@@ -7,18 +7,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Play My Hero Ultimate Rumble** | 0 | **0** | 
-| #**2** | **20% AMP Enjoyer** | 0 | **0** | 
-| #**3** | **µ's** | 0 | **0** | 
-| #**4** | Ditinggal Gallileo | 0 | 0 | 
-| #**5** | SKILLISSUE | 0 | 0 | 
-| #**6** | TILT | 0 | 0 | 
-| #**7** | MelonCat Gaming | 0 | 0 | 
-| #**8** | Momoka Diamond | 0 | 0 | 
+| #**1** | **Ditinggal Gallileo** | 13 | **34** | 
+| #**2** | **20% AMP Enjoyer** | 14 | **33** | 
+| #**3** | **TILT** | 11 | **24** | 
+| #**4** | Play My Hero Ultimate Rumble | 10 | 21 | 
+| #**5** | SKILLISSUE | 8 | 19 | 
+| #**6** | µ's | 5 | 14 | 
+| #**7** | Momoka Diamond | 4 | 8 | 
+| #**8** | MelonCat Gaming | 2 | 4 | 
 
 ### Penalty Log
 

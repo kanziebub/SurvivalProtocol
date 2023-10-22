@@ -122,8 +122,6 @@ def write_page(target, page_md):
     with open(target, 'w') as f:
         f.write(page_md)
 
-# refresh_page()
-
 # Tourney 12 Aug 2023
 # https://docs.google.com/spreadsheets/d/1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s/edit#gid=1885268704
 # sheetID = "1hLUR46LwreWo-B3oi1AsYvSiF_qvRxVAcUIpcUZcj9s"
@@ -160,15 +158,6 @@ def main():
     + get_penalty_table() 
     + penalty_placeholder
     + " \n \n")
-
-#     df_B = set_df(sheetID_B, sheetName)
-#     leaderboard_B = ("""
-# # **Lobby B Leaderboard**
-
-# """ + set_leaderboard(df_B) 
-#     + get_penalty_table() 
-#     + set_penalty("B01", "Astral", "-2", "Non-Player Death") 
-#     + " \n \n")
 
     page_md = (get_header() 
                + leaderboard
