@@ -24,7 +24,7 @@ layout: default
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-| 03 | µ's | -2 | Non-Player Death | 
+| 03 | Âµ's | -2 | Non-Player Death | 
  
  
 

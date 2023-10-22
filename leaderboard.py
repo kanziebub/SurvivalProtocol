@@ -156,7 +156,7 @@ def main():
 
 """ + set_leaderboard(df) 
     + get_penalty_table() 
-    + set_penalty("03", "µ's", "-2", "Non-Player Death") 
+    + set_penalty("03", "Âµ's", "-2", "Non-Player Death") 
     + " \n \n")
 
     page_md = (get_header() 
@@ -164,6 +164,6 @@ def main():
             #    + leaderboard_B
                + get_footer())
     write_page(target, page_md)
-    # print(page_md)
+    print(page_md)
 
 main()
