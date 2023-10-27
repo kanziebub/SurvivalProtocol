@@ -92,7 +92,9 @@ If a player experiences an unintentional disconnect during joining to the lobby,
 
 ## Anti-OTP Rule
 
-The Anti-OTP Rule restricts any character to be played in, at most, 2 rounds for each team. If a character has been played in 2 rounds for a team, **all members of that team is no longer allowed to pick that character**. The count is **reset** between stages of the tournament (such as between qualifiers and finals). If a character is picked after it is restricted for that team, the lobby will be **rehosted** using that team's rehost chance and a **-2 points** deduction will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-5 points** deduction will be given. If this is done a second time, a **-10 points** deduction will be given resulting in **disqualification** (see **Penalty Limit** for details).
+The Anti-OTP Rule restricts any character to be played in, at most, 2 rounds for each team. If a character has been played in 2 rounds for a team, **all members of that team is no longer allowed to pick that character**. The count is **reset** between stages of the tournament (such as between qualifiers and finals). 
+
+> If a character is picked after it is restricted for that team, the lobby will be **rehosted** using that team's rehost chance and a **-2 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-5 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see **Penalty Limit** for details).
 
 ## Unfair Play
 
@@ -108,7 +110,7 @@ The following behaviors are categorized as unfair play and will be penalized. Pl
 > 
 > **Bug exploit**: Do not exploit any bugs, including known bugs and bugs discovered during the tournament if any.
 > 
-> **Illegal pick**: Players may not pick characters that are restricted, disabled, or banned in official ranked mode. Penalty: 1st offense – round forfeit. 2nd offense – disqualification.
+> **Illegal pick**: Players may not pick characters that are restricted, disabled, or banned in official ranked mode. For first offense, the rehost chance of that team will be used to remake the lobby and a -2 points penalty will be given. If repeated, a -10 points penalty will be given which results in disqualification.
 > 
 > **Dying in a restricted area/Quitting**: Dying in the restricted area or quitting the match while alive even if the player is not in combat is strongly discouraged. All points from a player’s death will be given to the player or team that most clearly forced the player’s death to occur. Some situations will be case to case basis so it will be decided by the organizers. 
 >
