@@ -29,6 +29,8 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 > If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 2 Points will be deducted from that Player’s Round Point total. 
 >
 > If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 2 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total
+>
+> Escape is disabled.
 
 
 ## Tiebreaker Rules
@@ -40,11 +42,11 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 ## Event Registration
 
 Event registration is processed via Google and joining the discord server.
-All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the **“Lyfin's Tavern” Discord** at time of signup for your entry to be counted. Event registration may be canceled or modified by contacting an organizer.
+All links and instructions on how to register will be provided. You will need your Discord ID + Discord Alias ready. If the tournament format is a team mode, you must have the Discord IDs of you and your teammate(s) ready. All participants must be in the **Lyfin's Tavern Discord** at the time of signup for your entry to be counted. Event registration may be canceled or modified by contacting an organizer.
  
 ## Game Client Version
 
-Every match in the tournament will use the latest version of “Eternal Return”. If there is an update during the tournament period, the updated version will be immediately available for tournament use.
+Every match in the tournament will use the **latest version of Eternal Return**. If there is an update during the tournament period, the updated version will be immediately available for tournament use.
  
 ## New Character Releases
 
@@ -64,7 +66,7 @@ The player must own a Steam account to participate in the tournament. If the ass
 
 ## Substitute Players
 
-For the current tournament (“Survival Protocol”), no substitute players are allowed to join. But “Team” are still able to replace a member at most “1 day” before the tournament starts by reporting to the organizers beforehand. Teams will still be required to fulfill the team ruling of maximum of 2 Diamond+ & 1 Platinum “or” lower Players. If any team member is unable to play by the time the tournament starts, the team will be hereby disqualified.
+Currently, no substitute players are allowed to join. But a team can still replace a member at most **2 days** before the tournament starts by reporting to the tournament organizers beforehand (pereferrable to Zibub or Mizyx). If any team member is unable to play by the time the tournament starts, the team has the option to forfeit or play with an incomplete team.
 
 ## In-game Nicknames
 
@@ -78,15 +80,19 @@ All players should be familiar with all rules and guidelines in this rulebook. P
 
 Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks + Main Augment. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match.] [Failure to do so will be subjected to -2 points for each rule broken]
 
-> **Example**: “Player A” retains the same character pick but fails to pick the same previously selected “Main Augment”, therefore -2 points will be deducted. If both options are picked wrongly, -4 points will be deducted.
+> **Example**: **Player A** retains the same character pick but fails to pick the same previously selected **Main Augment**, therefore **-2 points** will be deducted. If both options are picked wrongly, **-4 points** will be deducted.
 
 ## Disconnect during In Game
 
-Unintentional disconnects or crashes occurring during the loading screen or within the first 30 seconds of game start may result in a rehost. For player-side issues, “up to 1 lobby rehosts per team can be offered as a courtesy”. If any member of the team cannot play the game normally after that, the match will proceed normally. Make sure you put the game to “SSD drive” to smoothen the whole tournament.
+Unintentional disconnects or crashes occurring during the loading screen or within the first 30 seconds of game start may result in a rehost. For player-side issues, **up to 1 lobby rehosts per team can be offered as a courtesy**. If any member of the team cannot play the game normally after that, the match will proceed normally. Make sure you put the game to “SSD drive” to smoothen the whole tournament.
 
 ## Disconnect during Match Preparation
 
 If a player experiences an unintentional disconnect during joining to the lobby, but expects to be able to reconnect, they will be given 3 minutes to join the lobby before the match proceeds normally. In any game modes, the game will proceed normally while the disconnected party will have disadvantage of their own risk.
+
+## Anti-OTP Rule
+
+The Anti-OTP Rule restricts any character to be played in, at most, 2 rounds for each team. If a character has been played in 2 rounds for a team, **all members of that team is no longer allowed to pick that character**. The count is **reset** between stages of the tournament (such as between qualifiers and finals). If a character is picked after it is restricted for that team, the lobby will be **rehosted** using that team's rehost chance and a **-2 points** deduction will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-5 points** deduction will be given. If this is done a second time, a **-10 points** deduction will be given resulting in **disqualification** (see **Penalty Limit** for details).
 
 ## Unfair Play
 
@@ -107,7 +113,9 @@ The following behaviors are categorized as unfair play and will be penalized. Pl
 > **Dying in a restricted area/Quitting**: Dying in the restricted area or quitting the match while alive even if the player is not in combat is strongly discouraged. All points from a player’s death will be given to the player or team that most clearly forced the player’s death to occur. Some situations will be case to case basis so it will be decided by the organizers. 
 >
 > **Hostage holding**: Hostage holding is when a player does not end a downed player until day 5 to prevent revival. This scenario will be reviewed by TO case by case.
->
-> **Penalty limit**: If a team has more than 10 points deducted as penalty, that team will be disqualified from the tournament.
+
+## Penalty limit
+
+If a team has more than 10 points deducted as penalty, that team will be disqualified from the tournament.
 
 [< Home](./)
