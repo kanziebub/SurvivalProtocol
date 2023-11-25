@@ -143,9 +143,16 @@ def write_page(target, page_md):
     # Finals
         # https://docs.google.com/spreadsheets/d/1hCN56fy0dOZrc9UxU5WaiqpW5sjfiXSH9P2W_bPCaZE/edit#gid=1885268704 
 
-def main():
-    target = "./EPIC/02/finals.md"
-    sheetID = "1hCN56fy0dOZrc9UxU5WaiqpW5sjfiXSH9P2W_bPCaZE"
+# EPIC S3 Open 25 Nov & 2 Dec 2023
+    # Qualifiers
+        # https://docs.google.com/spreadsheets/d/1SSutJKrwf2y9mgj8sUqXzdvLkA0P-SSbA_RbyH5N4-o/edit?usp=sharing
+        # https://docs.google.com/spreadsheets/d/1rgwbKUNxfOgDte29NnJ9Rmfg2Umz6qzpO1Qk2-D1l4o/edit?usp=sharing
+    # Finals
+        # 
+        
+def single():
+    target = "./EPIC/03/finals.md"
+    sheetID = ""
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
@@ -155,9 +162,7 @@ def main():
 
 """ + set_leaderboard(df) 
     + get_penalty_table() 
-    + set_penalty("03", "Âµ's", "-2", "Non-Player Death") 
-    + set_penalty("04", "TILT", "-2", "Non-Player Death") 
-    + set_penalty("05", "TILT", "-2", "Non-Player Death") 
+    + set_penalty(penalty_placeholder) 
     + " \n \n")
 
     page_md = (get_header() 
@@ -165,6 +170,41 @@ def main():
             #    + leaderboard_B
                + get_footer())
     write_page(target, page_md)
-    # print(page_md)
+    
+def double():
+    target = "./EPIC/03/qualifiers.md"
+    sheetA = "1SSutJKrwf2y9mgj8sUqXzdvLkA0P-SSbA_RbyH5N4-o"
+    sheetB = "1rgwbKUNxfOgDte29NnJ9Rmfg2Umz6qzpO1Qk2-D1l4o"
+    sheetName = "ERCT"
+    penalty_placeholder = "|        |           |         |                       | \n"
+
+    df_A = set_df(sheetA, sheetName)
+    df_B = set_df(sheetB, sheetName)
+
+    leaderboard_A = ("""
+# **Lobby A Leaderboard**
+
+""" + set_leaderboard(df_A) 
+    + get_penalty_table() 
+    + penalty_placeholder
+    # + set_penalty("", "", "") 
+    + " \n \n")
+    leaderboard_B = ("""
+# **Lobby B Leaderboard**
+
+""" + set_leaderboard(df_B) 
+    + get_penalty_table() 
+    + penalty_placeholder
+    # + set_penalty("", "", "") 
+    + " \n \n")
+
+    page_md = (get_header() 
+               + leaderboard_A
+               + leaderboard_B
+               + get_footer())
+    write_page(target, page_md)
+
+def main():
+    double()
 
 main()

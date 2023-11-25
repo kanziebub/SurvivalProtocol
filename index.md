@@ -29,7 +29,11 @@ EPIC Invitational (30 Sep 2023):
 - [Registered Teams](./EPIC/01/teams.md)
 - [Leaderboard](./EPIC/01/leaderboard.md)
 
-EPIC 2.0 Open (21-22 Sep 2023): 
+EPIC S2 Open (21-22 Sep 2023): 
 - [Registered Teams](./EPIC/02/teams.md)
-- [Qualifier Leaderboard](./EPIC/02/leaderboard.md)
+- [Qualifiers Leaderboard](./EPIC/02/leaderboard.md)
 - [Finals Leaderboard](./EPIC/02/finals.md)
+
+EPIC S3 Open (25 Nov & 2 Dec 2023):
+- [Registered Teams](./EPIC/03/teams.md)
+- [Qualifiers Leaderboard](./EPIC/03/qualifiers.md)
