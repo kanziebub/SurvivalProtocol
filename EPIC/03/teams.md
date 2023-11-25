@@ -20,7 +20,7 @@ layout: default
 
 - TalVah
   - Onryou
-  - Zxlaim
+  - ZxLaim
   - YusaShirou
 
 - SayGex
@@ -43,7 +43,7 @@ layout: default
   - Grimmer
   - Krei
 
-Qunari
+- Qunari
   - Extera
   - Lolzila
   - Zaedarius
