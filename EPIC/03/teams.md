@@ -50,6 +50,44 @@ Qunari
 
 ### Lobby B
 
+- SMSTR2
+  - Zaku
+  - Diuturna
+  - MaZee
 
+- Theo A
+  - HentaiManz
+  - MintDesu
+  - MieAyam
+
+- XCePuX
+  - CEPUーLuminears
+  - CEPUーValsh
+  - ChuChuLovelyMuni
+
+- Ga tau
+  - Restifik
+  - Rivulose
+  - CEPUーJandaHnter
+
+- TILT
+  - TaliyahOma
+  - Dice21
+  - Labril
+
+- Nimosi
+  - Tnsh
+  - 감자카레
+  - JinraiKei
+
+- NutNut
+  - CEPUーKacang
+  - TwitchAriety
+  - Kuroba4
+
+- HALU
+  - NaFi
+  - Stein5
+  - VRz
 
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
