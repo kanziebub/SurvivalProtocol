@@ -34,11 +34,11 @@ layout: default
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **XCePuX** | 44 | **110** | 
+| #**1** | **XCePuX** | 44 | **108** | 
 | #**2** | **Ga tau** | 47 | **107** | 
 | #**3** | **Nimosi** | 37 | **93** | 
 | #**4** | Theo A | 38 | 91 | 
-| #**5** | TILT | 25 | 60 | 
+| #**5** | TILT | 25 | 58 | 
 | #**6** | SMSTR2 | 13 | 30 | 
 | #**7** | HALU | 11 | 26 | 
 | #**8** | NutNut | 6 | 15 | 
@@ -48,6 +48,8 @@ layout: default
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
 | B01 | SMSTR2 | -2 | Non-Player Death | 
+| B04 | XCepuX | -2 | Non-Player Death | 
+| B04 | TILT | -2 | Non-Player Death | 
  
  
 

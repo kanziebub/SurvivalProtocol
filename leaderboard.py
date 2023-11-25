@@ -167,7 +167,6 @@ def single():
 
     page_md = (get_header() 
                + leaderboard
-            #    + leaderboard_B
                + get_footer())
     write_page(target, page_md)
     
@@ -196,6 +195,8 @@ def double():
     + get_penalty_table() 
     # + penalty_placeholder
     + set_penalty("B01", "SMSTR2", "-2", "Non-Player Death") 
+    + set_penalty("B04", "XCepuX", "-2", "Non-Player Death") 
+    + set_penalty("B04", "TILT", "-2", "Non-Player Death") 
     + " \n \n")
 
     page_md = (get_header() 
