@@ -194,8 +194,8 @@ def double():
 
 """ + set_leaderboard(df_B) 
     + get_penalty_table() 
-    + penalty_placeholder
-    # + set_penalty("", "", "") 
+    # + penalty_placeholder
+    + set_penalty("B01", "SMSTR2", "-2", "Non-Player Death") 
     + " \n \n")
 
     page_md = (get_header() 

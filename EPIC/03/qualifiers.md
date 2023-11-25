@@ -7,18 +7,18 @@ layout: default
 
 # **Lobby A Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **BBC** | 0 | **0** | 
-| #**2** | **YOLO** | 0 | **0** | 
-| #**3** | **TalVah** | 0 | **0** | 
-| #**4** | SayGex | 0 | 0 | 
-| #**5** | Nangid | 0 | 0 | 
-| #**6** | R:1999 | 0 | 0 | 
-| #**7** | Forsen | 0 | 0 | 
-| #**8** | Qunari | 0 | 0 | 
+| #**1** | **TalVah** | 17 | **39** | 
+| #**2** | **BBC** | 11 | **30** | 
+| #**3** | **Nangid** | 10 | **23** | 
+| #**4** | R:1999 | 8 | 17 | 
+| #**5** | Qunari | 4 | 10 | 
+| #**6** | SayGex | 3 | 6 | 
+| #**7** | YOLO | 1 | 6 | 
+| #**8** | Forsen | 1 | 2 | 
 
 ### Penalty Log
 
@@ -30,24 +30,24 @@ layout: default
 
 # **Lobby B Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **SMSTR2** | 0 | **0** | 
-| #**2** | **Theo A** | 0 | **0** | 
-| #**3** | **XCePuX** | 0 | **0** | 
-| #**4** | Ga tau | 0 | 0 | 
-| #**5** | TILT | 0 | 0 | 
-| #**6** | Nimosi | 0 | 0 | 
-| #**7** | NutNut | 0 | 0 | 
-| #**8** | HALU | 0 | 0 | 
+| #**1** | **XCePuX** | 17 | **42** | 
+| #**2** | **Ga tau** | 14 | **29** | 
+| #**3** | **Theo A** | 11 | **27** | 
+| #**4** | HALU | 9 | 18 | 
+| #**5** | TILT | 3 | 10 | 
+| #**6** | Nimosi | 2 | 7 | 
+| #**7** | SMSTR2 | 3 | 6 | 
+| #**8** | NutNut | 1 | 2 | 
 
 ### Penalty Log
 
 |  Game  | Team Name | Penalty | Reason                |
 |:-------|:----------|:--------|:----------------------|
-|        |           |         |                       | 
+| B01 | SMSTR2 | -2 | Non-Player Death | 
  
  
 
