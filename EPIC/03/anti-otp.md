@@ -33,10 +33,14 @@ layout: default
   - Tia
 
 - Forsen
-  - (None)
+  - Piolo
+  - Magnus
+  - Haze
 
 - Qunari
-  - (None)
+  - Arda
+  - Bianca
+  - Markus
 
 ### Lobby B
 
