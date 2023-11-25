@@ -50,12 +50,15 @@ layout: default
 
 - Theo A
   - Xiukai
+  - Alonso
+  - William
 
 - XCePuX
-  - (None)
+  - Hyunwoo
 
 - Ga tau
-  - (None)
+  - Arda
+  - Camilo
 
 - TILT
   - Hart
@@ -66,9 +69,11 @@ layout: default
   - Haze
 
 - NutNut
-  - (None)
+  - Elena
 
 - HALU
-  - (None)
+  - Aya
+  - Markus
+  - Nicky
 
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
