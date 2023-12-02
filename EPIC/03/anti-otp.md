@@ -6,56 +6,36 @@ layout: default
 
 # **EPIC S3 Open: Anti-OTP Rule**
 
-### Lobby A
-
 - BBC
-  - (None)
-
-- YOLO
-  - (None)
+  - Rio
 
 - TalVah
   - (None)
 
-- SayGex
-  - (None)
-
-- Nangid
-  - (None)
-
 - R:1999
-  - (None)
-
-- Forsen
-  - (None)
+  - Aiden
+  - Elena
+  - Vanya
 
 - Qunari
   - (None)
 
-### Lobby B
-
-- SMSTR2
-  - (None)
-
-- Theo A
-  - (None)
-
 - XCePuX
-  - (None)
+  - Magnus
+  - Emma
+  - Chloe
 
 - Ga tau
-  - (None)
-
-- TILT
-  - (None)
+  - Theodore
+  - Markus
+  - Jackie
 
 - Nimosi
-  - (None)
+  - Haze
 
-- NutNut
-  - (None)
-
-- HALU
-  - (None)
+- Theo A
+  - Eleven
+  - William
+  - Xiukai
 
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)
