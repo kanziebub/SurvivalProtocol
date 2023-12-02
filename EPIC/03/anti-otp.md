@@ -15,65 +15,47 @@ layout: default
   - (None)
 
 - TalVah
-  - Alonso
-  - Jackie
-  - Theodore
+  - (None)
 
 - SayGex
-  - Bianca
-  - Magnus
+  - (None)
 
 - Nangid
-  - Bianca
-  - Hyejin
+  - (None)
 
 - R:1999
-  - Estelle
-  - Chloe
-  - Tia
+  - (None)
 
 - Forsen
-  - Piolo
-  - Magnus
-  - Haze
+  - (None)
 
 - Qunari
-  - Arda
-  - Bianca
-  - Markus
+  - (None)
 
 ### Lobby B
 
 - SMSTR2
-  - Yuki
-  - Rio
+  - (None)
 
 - Theo A
-  - Xiukai
-  - Alonso
-  - William
+  - (None)
 
 - XCePuX
   - Hyunwoo
 
 - Ga tau
-  - Arda
-  - Camilo
+  - (None)
 
 - TILT
-  - Hart
-  - Magnus
-  - Luke
+  - (None)
 
 - Nimosi
-  - Haze
+  - (None)
 
 - NutNut
-  - Elena
+  - (None)
 
 - HALU
-  - Aya
-  - Markus
-  - Nicky
+  - (None)
 
 [< Home](https://kanziebub.github.io/SurvivalProtocol/)

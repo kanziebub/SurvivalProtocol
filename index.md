@@ -37,4 +37,5 @@ EPIC S2 Open (21-22 Sep 2023):
 EPIC S3 Open (25 Nov & 2 Dec 2023):
 - [Registered Teams](./EPIC/03/teams.md)
 - [Qualifiers Leaderboard](./EPIC/03/qualifiers.md)
-- [Qualifiers Anti-OTP](./EPIC/03/anti-otp.md)
+- [Finals Leaderboard](./EPIC/03/finals.md)
+- [Anti-OTP](./EPIC/03/anti-otp.md)

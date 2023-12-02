@@ -148,11 +148,11 @@ def write_page(target, page_md):
         # https://docs.google.com/spreadsheets/d/1SSutJKrwf2y9mgj8sUqXzdvLkA0P-SSbA_RbyH5N4-o/edit?usp=sharing
         # https://docs.google.com/spreadsheets/d/1rgwbKUNxfOgDte29NnJ9Rmfg2Umz6qzpO1Qk2-D1l4o/edit?usp=sharing
     # Finals
-        # 
+        # https://docs.google.com/spreadsheets/d/1-xXH_T36FAajsApcl4k_Ha1aT-5VR2hhLfNJLVI7rys/edit#gid=1885268704
         
 def single():
     target = "./EPIC/03/finals.md"
-    sheetID = ""
+    sheetID = "1-xXH_T36FAajsApcl4k_Ha1aT-5VR2hhLfNJLVI7rys"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
@@ -162,7 +162,7 @@ def single():
 
 """ + set_leaderboard(df) 
     + get_penalty_table() 
-    + set_penalty(penalty_placeholder) 
+    + penalty_placeholder
     + " \n \n")
 
     page_md = (get_header() 
@@ -206,6 +206,6 @@ def double():
     write_page(target, page_md)
 
 def main():
-    double()
+    single()
 
 main()
