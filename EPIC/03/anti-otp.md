@@ -41,7 +41,7 @@ layout: default
   - (None)
 
 - XCePuX
-  - Hyunwoo
+  - (None)
 
 - Ga tau
   - (None)
