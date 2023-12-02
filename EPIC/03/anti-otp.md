@@ -10,7 +10,9 @@ layout: default
   - Rio
 
 - TalVah
-  - (None)
+  - Yuki
+  - Isaac
+  - Leni
 
 - R:1999
   - Aiden
@@ -18,7 +20,9 @@ layout: default
   - Vanya
 
 - Qunari
-  - (None)
+  - Vanya
+  - Camilo
+  - Eleven
 
 - XCePuX
   - Magnus
