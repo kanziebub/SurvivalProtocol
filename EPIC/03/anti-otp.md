@@ -50,7 +50,7 @@ layout: default
   - Haze
   - Nicky
   - Jackie
-  - Leni-
+  - Leni
 
 - Theo A
   - Eleven
