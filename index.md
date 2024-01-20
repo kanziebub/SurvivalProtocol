@@ -41,5 +41,5 @@ EPIC S3 Open (25 Nov & 2 Dec 2023):
 - [Anti-OTP](./EPIC/03/anti-otp.md)
 
 Newbie Mentorship 2.0 (20 Jan 2024):
-- [Registered Teams]
-- [Leaderboard]
+- [Registered Teams](./Newbie/02/teams.md)
+- [Leaderboard](./Newbie/02/leaderboard.md)
