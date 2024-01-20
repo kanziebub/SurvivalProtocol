@@ -165,7 +165,7 @@ def single():
 
 """ + set_leaderboard(df) 
     + get_penalty_table() 
-    + penalty_placeholder
+    + set_penalty("02", "Karen", "-2", "Non-Player Death") 
     + " \n \n")
 
     page_md = (get_header() 
