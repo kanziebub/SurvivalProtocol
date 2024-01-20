@@ -39,3 +39,7 @@ EPIC S3 Open (25 Nov & 2 Dec 2023):
 - [Qualifiers Leaderboard](./EPIC/03/qualifiers.md)
 - [Finals Leaderboard](./EPIC/03/finals.md)
 - [Anti-OTP](./EPIC/03/anti-otp.md)
+
+Newbie Mentorship 2.0 (20 Jan 2024):
+- [Registered Teams]
+- [Leaderboard]

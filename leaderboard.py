@@ -149,10 +149,13 @@ def write_page(target, page_md):
         # https://docs.google.com/spreadsheets/d/1rgwbKUNxfOgDte29NnJ9Rmfg2Umz6qzpO1Qk2-D1l4o/edit?usp=sharing
     # Finals
         # https://docs.google.com/spreadsheets/d/1-xXH_T36FAajsApcl4k_Ha1aT-5VR2hhLfNJLVI7rys/edit#gid=1885268704
+
+# Newbie Tournament 2.0 20 Jan 2024
+    # https://docs.google.com/spreadsheets/d/1_74atS-on-fS4X7jvD9HxBlikC4y0ZtSPeW-rHke8G8/edit#gid=1885268704    
         
 def single():
-    target = "./EPIC/03/finals.md"
-    sheetID = "1-xXH_T36FAajsApcl4k_Ha1aT-5VR2hhLfNJLVI7rys"
+    target = "./Newbie/02/leaderboard.md"
+    sheetID = "1_74atS-on-fS4X7jvD9HxBlikC4y0ZtSPeW-rHke8G8"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
