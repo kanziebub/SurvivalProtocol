@@ -7,18 +7,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 3
+### Games Played = 4
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Elsword** | 43 | **107** | 
-| #**2** | **BudakHoyo** | 35 | **79** | 
-| #**3** | **JocelAjg** | 23 | **49** | 
-| #**4** | Karen | 20 | 43 | 
-| #**5** | StandbyMain | 19 | 38 | 
-| #**6** | Charm | 11 | 27 | 
-| #**7** | Carrot | 13 | 26 | 
-| #**8** | Rungkad | 8 | 18 | 
+| #**1** | **Elsword** | 61 | **145** | 
+| #**2** | **BudakHoyo** | 43 | **103** | 
+| #**3** | **JocelAjg** | 26 | **60** | 
+| #**4** | Carrot | 24 | 51 | 
+| #**5** | StandbyMain | 22 | 45 | 
+| #**6** | Karen | 21 | 45 | 
+| #**7** | Rungkad | 11 | 28 | 
+| #**8** | Charm | 11 | 27 | 
 
 ### Penalty Log
 
