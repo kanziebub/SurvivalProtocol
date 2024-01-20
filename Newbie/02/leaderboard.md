@@ -7,18 +7,18 @@ layout: default
 
 # **Leaderboard**
 
-### Games Played = 0
+### Games Played = 1
 
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
-| #**1** | **Karen** | 0 | **0** | 
-| #**2** | **BudakHoyo** | 0 | **0** | 
-| #**3** | **JocelAjg** | 0 | **0** | 
-| #**4** | StandbyMain | 0 | 0 | 
-| #**5** | Carrot | 0 | 0 | 
-| #**6** | Rungkad | 0 | 0 | 
-| #**7** | TonyStark | 0 | 0 | 
-| #**8** | Charm | 0 | 0 | 
+| #**1** | **BudakHoyo** | 15 | **38** | 
+| #**2** | **Elsword** | 15 | **35** | 
+| #**3** | **JocelAjg** | 14 | **31** | 
+| #**4** | Carrot | 10 | 20 | 
+| #**5** | Karen | 3 | 6 | 
+| #**6** | StandbyMain | 3 | 6 | 
+| #**7** | Rungkad | 2 | 6 | 
+| #**8** | Charm | 1 | 2 | 
 
 ### Penalty Log
 
