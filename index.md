@@ -43,3 +43,8 @@ EPIC S3 Open (25 Nov & 2 Dec 2023):
 Newbie Mentorship 2.0 (20 Jan 2024):
 - [Registered Teams](./Newbie/02/teams.md)
 - [Leaderboard](./Newbie/02/leaderboard.md)
+
+Nian-Irem Tournament (9 Feb 2024):
+- [Special Rules](./Nian/description.md)
+- [Registered Teams](./Nian/teams.md)
+- [Leaderboard](./Nian/leaderboard.md)

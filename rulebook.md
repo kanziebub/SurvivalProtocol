@@ -78,7 +78,7 @@ All players should be familiar with all rules and guidelines in this rulebook. P
 
 ## Rehost
 
-Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks + Main Augment. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match.] [Failure to do so will be subjected to -2 points for each rule broken]
+Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks, main augment, and tac skill. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match] [Failure to do so will be subjected to -2 points for each rule broken]
 
 > **Example**: **Player A** retains the same character pick but fails to pick the same previously selected **Main Augment**, therefore **-2 points** will be deducted. If both options are picked wrongly, **-4 points** will be deducted.
 
