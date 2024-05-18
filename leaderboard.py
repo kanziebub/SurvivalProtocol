@@ -64,58 +64,36 @@ def set_penalty(game, team, penalty, reason):
     row = "| " + game + " | " + team + " | " + penalty + " | " + reason + " | \n"
     return row
 
-def set_leaderboard(df):
+def set_leaderboard(df, teams):
     leaderboard_md = "### Games Played = " + str(int(get_games_played(df))) + "\n"
     
     # ---------------------------------
-
-    rank1team = get_by_rank(df, 1, "Name")
-    rank2team = get_by_rank(df, 2, "Name")
-    rank3team = get_by_rank(df, 3, "Name")
-    rank4team = get_by_rank(df, 4, "Name")
-    rank5team = get_by_rank(df, 5, "Name")
-    rank6team = get_by_rank(df, 6, "Name")
-    rank7team = get_by_rank(df, 7, "Name")
-    rank8team = get_by_rank(df, 8, "Name")
-
-    rank1kill = get_by_rank(df, 1, "Total TK")
-    rank2kill = get_by_rank(df, 2, "Total TK")
-    rank3kill = get_by_rank(df, 3, "Total TK")
-    rank4kill = get_by_rank(df, 4, "Total TK")
-    rank5kill = get_by_rank(df, 5, "Total TK")
-    rank6kill = get_by_rank(df, 6, "Total TK")
-    rank7kill = get_by_rank(df, 7, "Total TK")
-    rank8kill = get_by_rank(df, 8, "Total TK")
-
-    rank1poin = get_by_rank(df, 1, "Total Point")
-    rank2poin = get_by_rank(df, 2, "Total Point")
-    rank3poin = get_by_rank(df, 3, "Total Point")
-    rank4poin = get_by_rank(df, 4, "Total Point")
-    rank5poin = get_by_rank(df, 5, "Total Point")
-    rank6poin = get_by_rank(df, 6, "Total Point")
-    rank7poin = get_by_rank(df, 7, "Total Point")
-    rank8poin = get_by_rank(df, 8, "Total Point")
-
     lbtable = """
 |  Rank  | Team Name             | Total Kill | **Points** |
 |:-------|:----------------------|:-----------|:-----------|
 """
-    rank1 = "| #**1** | **" +str(rank1team)+ "** | " +str(int(rank1kill))+ " | **" +str(int(rank1poin))+ "** | \n"
-    rank2 = "| #**2** | **" +str(rank2team)+ "** | " +str(int(rank2kill))+ " | **" +str(int(rank2poin))+ "** | \n"
-    rank3 = "| #**3** | **" +str(rank3team)+ "** | " +str(int(rank3kill))+ " | **" +str(int(rank3poin))+ "** | \n"
-    rank4 = "| #**4** | " +str(rank4team)+ " | " +str(int(rank4kill))+ " | " +str(int(rank4poin))+ " | \n"
-    rank5 = "| #**5** | " +str(rank5team)+ " | " +str(int(rank5kill))+ " | " +str(int(rank5poin))+ " | \n"
-    rank6 = "| #**6** | " +str(rank6team)+ " | " +str(int(rank6kill))+ " | " +str(int(rank6poin))+ " | \n"
-    rank7 = "| #**7** | " +str(rank7team)+ " | " +str(int(rank7kill))+ " | " +str(int(rank7poin))+ " | \n"
-    rank8 = "| #**8** | " +str(rank8team)+ " | " +str(int(rank8kill))+ " | " +str(int(rank8poin))+ " | \n"
+    rows = ""
+    for i in range (teams):
+        rank = i+1
+        rows+= get_data_by_rank(df, rank)
 
-    lbtable = lbtable + rank1 + rank2 + rank3 + rank4 + rank5 + rank6 + rank7 + rank8
+    lbtable = lbtable + rows
     page_md  = leaderboard_md + lbtable
 
     return page_md
 
     # ---------------------------------
 
+def get_data_by_rank(df, rank):
+    team = get_by_rank(df, rank, "Name")
+    kill = get_by_rank(df, rank, "Total TK")
+    poin = get_by_rank(df, rank, "Total Point")
+    row = ""
+    if (rank==1 or rank==2 or rank==3):
+        row += "| #**"+rank+"** | **" +str(team)+ "** | " +str(int(kill))+ " | **" +str(int(poin))+ "** | \n"
+    else:
+        row += "| #**"+rank+"** | " +str(team)+ " | " +str(int(kill))+ " | " +str(int(poin))+ " | \n"
+    return row
 # =====================================================
 
 def write_page(target, page_md):
@@ -151,10 +129,16 @@ def write_page(target, page_md):
         # https://docs.google.com/spreadsheets/d/1-xXH_T36FAajsApcl4k_Ha1aT-5VR2hhLfNJLVI7rys/edit#gid=1885268704
 
 # Newbie Tournament 2.0 20 Jan 2024
-    # https://docs.google.com/spreadsheets/d/1_74atS-on-fS4X7jvD9HxBlikC4y0ZtSPeW-rHke8G8/edit#gid=1885268704    
+    # https://docs.google.com/spreadsheets/d/1_74atS-on-fS4X7jvD9HxBlikC4y0ZtSPeW-rHke8G8/edit#gid=1885268704  
+
+# EPIC S4 Open 8 Jun
+    # Qualifiers
+        # 
+    # Finals  
+        # 
         
 def single():
-    target = "./Newbie/02/leaderboard.md"
+    target = "./EPIC/04/qqualifiers.md"
     sheetID = "1_74atS-on-fS4X7jvD9HxBlikC4y0ZtSPeW-rHke8G8"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
@@ -165,7 +149,8 @@ def single():
 
 """ + set_leaderboard(df) 
     + get_penalty_table() 
-    + set_penalty("02", "Karen", "-2", "Non-Player Death") 
+    + penalty_placeholder
+    # + set_penalty("", "", "") 
     + " \n \n")
 
     page_md = (get_header() 
@@ -186,7 +171,7 @@ def double():
     leaderboard_A = ("""
 # **Lobby A Leaderboard**
 
-""" + set_leaderboard(df_A) 
+""" + set_leaderboard(df_A, 7) 
     + get_penalty_table() 
     + penalty_placeholder
     # + set_penalty("", "", "") 
@@ -194,12 +179,10 @@ def double():
     leaderboard_B = ("""
 # **Lobby B Leaderboard**
 
-""" + set_leaderboard(df_B) 
+""" + set_leaderboard(df_B, 7) 
     + get_penalty_table() 
     # + penalty_placeholder
-    + set_penalty("B01", "SMSTR2", "-2", "Non-Player Death") 
-    + set_penalty("B04", "XCepuX", "-2", "Non-Player Death") 
-    + set_penalty("B04", "TILT", "-2", "Non-Player Death") 
+    # + set_penalty("B04", "TILT", "-2", "Non-Player Death") 
     + " \n \n")
 
     page_md = (get_header() 
