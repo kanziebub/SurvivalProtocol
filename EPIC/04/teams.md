@@ -27,7 +27,7 @@ layout: default
   - CEPUーLuminears
   - 감자카레
 - NANYA
-  - Mistral
+  - CEPUーMistral
   - NeroNian
   - Renal
 - Eclair
