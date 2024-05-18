@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[< Home](./)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
 
 # **Nian-Irem Tournament**
 Zibub's kitten's birthday is coming up!
@@ -18,4 +18,4 @@ The only **kills** that count are kills done by **Irem**!
 ### Nian's Birthday 
 This event will be held **Friday, February 9 2024** on Nian's first birthday! The time of the tournament will be adjusted to the registered players' schedule since it is a weekday. A prize of **450k** will be given to the winning team (possible event NPs for the top 4 teams). Only **8 teams** can register so hurry and register yours!
 
-[< Home](./)
+[< Home](https://kanziebub.github.io/SurvivalProtocol/)
