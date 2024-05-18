@@ -16,6 +16,7 @@ General rules regarding the tournament can be accessed from the following page: 
 
 EPIC S4 Open (8 Jun 2024):
 - [Special Rules](./EPIC/04/description.md)
+- [Registered Teams](./EPIC/04/teams.md)
 
 Nian-Irem Tournament (9 Feb 2024):
 - [Special Rules](./Nian/description.md)
