@@ -22,13 +22,14 @@ This is the general rules regarding the Eternal Return 1.0 Squad Tournament.
 | #**8** |   0   | 
 | Escape |   0   | 
 
-*   1 TK = 2 Points
-*   Penalty = -2 Points
-*   Hostage Holding = -10 Points
+*   1 Field Kill = 1 Point
+*   Battle Zone Kill = 0 Point
+*   Penalty = -1 Points
+*   *Hostage Holding = -10 Points
 
-> If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 2 Points will be deducted from that Player’s Round Point total. 
+> If a player dies due to restricted area timer, wild animals, or any other non-Player cause, 1 Points will be deducted from that Player’s Round Point total. 
 >
-> If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 2 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total
+> If there are two (2) Players left in a Game, and a Player dies to restricted area timer, wild animals, or any other non-Player cause, the final remaining Player will be awarded 1 Points as if they secured the kill on the dying Player. No points will be deducted from the dying Player Round Point total
 >
 > Escape is disabled.
 
@@ -54,7 +55,7 @@ The latest character released is subject to being blocked from use based on the 
  
 ## Player Broadcast Guidelines
 
-Players are allowed to stream the tournament from their own perspective but must match the delay (1 minute delay). Players streaming with less delay will be asked to increase their delay for the sake of all other participants in their group. Failure to do so will be met with heavy consequences. 
+Players are allowed to stream the tournament from their own perspective but must match the delay (2 minute delay). Players streaming with less delay will be asked to increase their delay for the sake of all other participants in their group. Failure to do so will be met with heavy consequences. 
 
 ## Third-Party Tools
 
@@ -78,15 +79,18 @@ All players should be familiar with all rules and guidelines in this rulebook. P
 
 ## Rehost
 
-Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks, main augment, and tac skill. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match] [Failure to do so will be subjected to -2 points for each rule broken]
+Failure to start a match caused by server problems, natural disasters, or specific technical problems can result in a rehost of the lobby. If the game is to be rehosted, all players MUST maintain the same character picks, main augment, and tac skill. Rehosts will also sometimes occur in the case of player disconnections, according to section [Disconnect during Online Match] [Failure to do so will be subjected to -1 points for each rule broken]
 
-> **Example**: **Player A** retains the same character pick but fails to pick the same previously selected **Main Augment**, therefore **-2 points** will be deducted. If both options are picked wrongly, **-4 points** will be deducted.
+> **Example**: **Player A** retains the same character pick but fails to pick the same previously selected **Main Augment**, therefore **-1 points** will be deducted. If both options are picked wrongly, **-2 points** will be deducted.
 
-## Disconnect during In Game
+### Weather Settings
+> In the case of rehosting, weather settings will be manually set to follow the weather of the remade round (not re-randomised).
+
+### Disconnect during In Game
 
 Unintentional disconnects or crashes occurring during the loading screen or within the first 30 seconds of game start may result in a rehost. For player-side issues, **up to 1 lobby rehosts per team can be offered as a courtesy**. If any member of the team cannot play the game normally after that, the match will proceed normally. Make sure you put the game to “SSD drive” to smoothen the whole tournament.
 
-## Disconnect during Match Preparation
+### Disconnect during Match Preparation
 
 If a player experiences an unintentional disconnect during joining to the lobby, but expects to be able to reconnect, they will be given 3 minutes to join the lobby before the match proceeds normally. In any game modes, the game will proceed normally while the disconnected party will have disadvantage of their own risk.
 
@@ -94,7 +98,7 @@ If a player experiences an unintentional disconnect during joining to the lobby,
 
 The Anti-OTP Rule restricts any character to be played in, at most, 2 rounds for each team. If a character has been played in 2 rounds for a team, **all members of that team is no longer allowed to pick that character**. The count is **reset** between stages of the tournament (such as between qualifiers and finals). 
 
-> If a character is picked after it is restricted for that team, the lobby will be **rehosted** using that team's rehost chance and a **-2 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-5 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see **Penalty Limit** for details).
+> If a character is picked after it is restricted for that team, the lobby will be **rehosted** using that team's rehost chance and a **-1 points** penalty will be given; if that team no longer has a rehost chance, the lobby will still be rehosted and a **-5 points** penalty will be given. If this is done a second time, a **-10 points** penalty will be given resulting in **disqualification** (see **Penalty Limit** for details).
 
 ## Unfair Play
 
