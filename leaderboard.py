@@ -4,7 +4,7 @@ import pandas as pd
 def set_df(id, name):
     url = f'https://docs.google.com/spreadsheets/d/{id}/gviz/tq?tqx=out:csv&sheet={name}'
     df = pd.read_csv(url, encoding='latin')
-    df = df.iloc[1:11 , 1:9]
+    df = df.iloc[1:19 , 1:9]
 
     df.rename(
         columns = {
@@ -90,10 +90,43 @@ def get_data_by_rank(df, rank):
     poin = get_by_rank(df, rank, "Total Point")
     row = ""
     if (rank==1 or rank==2 or rank==3):
-        row += "| #**"+rank+"** | **" +str(team)+ "** | " +str(int(kill))+ " | **" +str(int(poin))+ "** | \n"
+        row += "| #**"+str(rank)+"** | **" +str(team)+ "** | " +str(int(kill))+ " | **" +str(int(poin))+ "** | \n"
     else:
-        row += "| #**"+rank+"** | " +str(team)+ " | " +str(int(kill))+ " | " +str(int(poin))+ " | \n"
+        row += "| #**"+str(rank)+"** | " +str(team)+ " | " +str(int(kill))+ " | " +str(int(poin))+ " | \n"
     return row
+
+def get_custom_information():
+    return (
+"""
+\n
+### Bracket
+- Group A
+  - NANYA
+  - Melon
+  - Eclair
+  - HnS
+- Group B
+  - Ijat
+  - SIAPA
+  - EzWins
+  - GG
+- Group C
+  - BlmTau
+  - YOLO
+  - 66%ptk
+  - NTR185
+\n
+### Match-up
+```
+Round 1: BC 
+Round 2: AB 
+Round 3: AC 
+Round 4: BC 
+Round 5: AB 
+Round 6: AC
+```
+\n
+""")
 # =====================================================
 
 def write_page(target, page_md):
@@ -133,13 +166,13 @@ def write_page(target, page_md):
 
 # EPIC S4 Open 8 Jun
     # Qualifiers
-        # 
+        # https://docs.google.com/spreadsheets/d/19vkPDGKtBVXdP0xaxhVR9pVelrj1FDEQr5hrpQZ6Ji4/edit?gid=1885268704#gid=1885268704
     # Finals  
         # 
         
 def single():
-    target = "./EPIC/04/qqualifiers.md"
-    sheetID = "1_74atS-on-fS4X7jvD9HxBlikC4y0ZtSPeW-rHke8G8"
+    target = "./EPIC/04/qualifiers.md"
+    sheetID = "19vkPDGKtBVXdP0xaxhVR9pVelrj1FDEQr5hrpQZ6Ji4"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
@@ -147,15 +180,17 @@ def single():
     leaderboard = ("""
 # **Leaderboard**
 
-""" + set_leaderboard(df) 
+""" + set_leaderboard(df, 12) 
     + get_penalty_table() 
     + penalty_placeholder
-    # + set_penalty("", "", "") 
+    # + set_penalty("a", "a", "aa", "otp") 
     + " \n \n")
 
-    page_md = (get_header() 
+    page_md = (  get_header() 
                + leaderboard
-               + get_footer())
+               + get_custom_information()
+               + get_footer()
+               )
     write_page(target, page_md)
     
 def double():
@@ -174,7 +209,7 @@ def double():
 """ + set_leaderboard(df_A, 7) 
     + get_penalty_table() 
     + penalty_placeholder
-    # + set_penalty("", "", "") 
+    # + set_penalty("", "", "", "") 
     + " \n \n")
     leaderboard_B = ("""
 # **Lobby B Leaderboard**
