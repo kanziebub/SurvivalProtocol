@@ -171,8 +171,8 @@ def write_page(target, page_md):
         # https://docs.google.com/spreadsheets/d/17DXlCaBG0s7haFVR8h9TaKUTFg91OHoqEUX_S-MOPLM/edit?gid=1885268704#gid=1885268704
         
 def single():
-    target = "./EPIC/04/finals.md"
-    sheetID = "17DXlCaBG0s7haFVR8h9TaKUTFg91OHoqEUX_S-MOPLM"
+    target = "./EPIC/04/qualifiers.md"
+    sheetID = "19vkPDGKtBVXdP0xaxhVR9pVelrj1FDEQr5hrpQZ6Ji4"
     sheetName = "ERCT"
     penalty_placeholder = "|        |           |         |                       | \n"
 
@@ -180,7 +180,7 @@ def single():
     leaderboard = ("""
 # **Leaderboard**
 
-""" + set_leaderboard(df, 8) 
+""" + set_leaderboard(df, 12) 
     + get_penalty_table() 
     + penalty_placeholder
     # + set_penalty("a", "a", "aa", "otp") 
@@ -188,7 +188,7 @@ def single():
 
     page_md = (  get_header() 
                + leaderboard
-               #+ get_custom_information()
+               + get_custom_information()
                + get_footer()
                )
     write_page(target, page_md)
