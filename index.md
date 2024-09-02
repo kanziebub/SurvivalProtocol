@@ -4,7 +4,7 @@ layout: default
 
 # **Home**
 
-This is the official page regarding Eternal Return Tournaments for the Indonesian ER Community (Lyfin's Tavern).
+This is the official page for Eternal Return Tournaments hosted by the Indonesian ER Community (Lyfin's Tavern).
 
 ## Tourney Rules
 
